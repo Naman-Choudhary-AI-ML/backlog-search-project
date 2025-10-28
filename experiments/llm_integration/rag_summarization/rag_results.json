@@ -1,0 +1,222 @@
+[
+  {
+    "query": "authentication problems",
+    "summary": {
+      "summary": "The backlog items primarily focus on enhancing the security and performance of the Authentication system. They include the implementation of two-factor authentication, encryption, audit logging, and increasing test coverage. There are also tasks aimed at refactoring the Authentication codebase for better performance.",
+      "themes": {
+        "Two-Factor Authentication": [
+          "FEAT-0435",
+          "FEAT-0469",
+          "FEAT-0637"
+        ],
+        "Encryption": [
+          "FEAT-0454",
+          "FEAT-0553"
+        ],
+        "Audit Logging": [
+          "FEAT-0650",
+          "FEAT-0501"
+        ],
+        "Testing and Performance": [
+          "TASK-0741",
+          "TASK-0688",
+          "TASK-0698"
+        ]
+      },
+      "high_priority": [
+        "FEAT-0435",
+        "FEAT-0454",
+        "FEAT-0553",
+        "TASK-0688"
+      ],
+      "recommendation": "Focus on implementing two-factor authentication (FEAT-0435) and encryption (FEAT-0454, FEAT-0553) first due to their critical priority and significant impact on security."
+    },
+    "latency_seconds": 6.451240539550781,
+    "cost_dollars": 0.01294,
+    "input_tokens": 598,
+    "output_tokens": 232,
+    "model": "gpt-4-turbo",
+    "num_items_retrieved": 10
+  },
+  {
+    "query": "database performance issues",
+    "summary": {
+      "summary": "The backlog items primarily focus on database performance issues such as timeouts and exhausted connection pools, alongside tasks aimed at improving the maintainability and readability of the database codebase. There are also items related to improving API Gateway performance.",
+      "themes": {
+        "Database Performance Issues": [
+          "BUG-0350",
+          "BUG-0378",
+          "BUG-0118",
+          "BUG-0227",
+          "BUG-0300"
+        ],
+        "Database Maintainability and Readability": [
+          "TASK-0799",
+          "TASK-0772"
+        ],
+        "API Gateway Performance": [
+          "TASK-0709",
+          "BUG-0098"
+        ]
+      },
+      "high_priority": [
+        "BUG-0350"
+      ],
+      "recommendation": "Focus on BUG-0350 first because it has a high priority and affects all users, indicating a significant impact on user experience due to database query performance issues during file uploads."
+    },
+    "latency_seconds": 4.936586141586304,
+    "cost_dollars": 0.01185,
+    "input_tokens": 630,
+    "output_tokens": 185,
+    "model": "gpt-4-turbo",
+    "num_items_retrieved": 10
+  },
+  {
+    "query": "API timeout errors",
+    "summary": {
+      "summary": "The backlog items primarily deal with timeout errors in various API operations, such as user creation, file uploads, and third-party integrations, as well as incorrect session timeout settings posing security risks.",
+      "themes": {
+        "Session Management Issues": [
+          "BUG-0247",
+          "BUG-0244",
+          "BUG-0376"
+        ],
+        "API Timeout Errors": [
+          "BUG-0027",
+          "BUG-0055",
+          "BUG-0122",
+          "BUG-0329",
+          "BUG-0377"
+        ],
+        "Critical API Failures": [
+          "BUG-0389",
+          "BUG-0195"
+        ]
+      },
+      "high_priority": [
+        "BUG-0389",
+        "BUG-0195"
+      ],
+      "recommendation": "Focus on BUG-0389 and BUG-0195 first as they are critical issues affecting product functionality and user transactions, which can have immediate financial and customer satisfaction impacts."
+    },
+    "latency_seconds": 5.5852885246276855,
+    "cost_dollars": 0.01234,
+    "input_tokens": 670,
+    "output_tokens": 188,
+    "model": "gpt-4-turbo",
+    "num_items_retrieved": 10
+  },
+  {
+    "query": "frontend UI bugs",
+    "summary": {
+      "summary": "The backlog items include tasks related to documentation updates, refactoring codebases for maintainability, readability, and testability, as well as critical and high-priority bugs affecting frontend performance and functionality.",
+      "themes": {
+        "Documentation Updates": [
+          "TASK-0716",
+          "TASK-0725",
+          "TASK-0658"
+        ],
+        "Refactoring": [
+          "TASK-0747",
+          "TASK-0727",
+          "TASK-0738"
+        ],
+        "Frontend UI Bugs": [
+          "BUG-0379",
+          "BUG-0128",
+          "BUG-0048"
+        ]
+      },
+      "high_priority": [
+        "BUG-0048",
+        "TASK-0747",
+        "BUG-0128"
+      ],
+      "recommendation": "Focus on BUG-0048 first because it is critical, affects specific customers, and occurs in a commonly used browser, potentially impacting user experience and satisfaction significantly."
+    },
+    "latency_seconds": 4.6953089237213135,
+    "cost_dollars": 0.01157,
+    "input_tokens": 602,
+    "output_tokens": 185,
+    "model": "gpt-4-turbo",
+    "num_items_retrieved": 10
+  },
+  {
+    "query": "export functionality",
+    "summary": {
+      "summary": "The backlog items primarily focus on enhancing export functionalities across various modules of a software system. They aim to introduce or improve bulk export capabilities and specific export options within the Reporting and Admin Panels, enhancing user productivity, workflow efficiency, and data visibility.",
+      "themes": {
+        "Bulk Export Functionality": [
+          "FEAT-0479",
+          "FEAT-0641",
+          "FEAT-0419",
+          "FEAT-0601",
+          "FEAT-0570",
+          "FEAT-0600",
+          "FEAT-0456"
+        ],
+        "Module-specific Export Capabilities": [
+          "FEAT-0564",
+          "FEAT-0599",
+          "FEAT-0527"
+        ]
+      },
+      "high_priority": [
+        "FEAT-0641",
+        "FEAT-0564",
+        "FEAT-0527"
+      ],
+      "recommendation": "Focus on FEAT-0641 first as it has a critical priority level, addressing bulk export functionality which impacts workflow efficiency significantly."
+    },
+    "latency_seconds": 4.897657155990601,
+    "cost_dollars": 0.0121,
+    "input_tokens": 595,
+    "output_tokens": 205,
+    "model": "gpt-4-turbo",
+    "num_items_retrieved": 10
+  },
+  {
+    "query": "security vulnerabilities",
+    "summary": {
+      "summary": "The backlog items are primarily focused on enhancing security features across various modules and services within the system. They include implementations of two-factor authentication, role-based access control, audit logging, and encryption. There is also a task to upgrade a major dependency for security improvements.",
+      "themes": {
+        "Authentication Security Enhancements": [
+          "FEAT-0435",
+          "FEAT-0553",
+          "FEAT-0454"
+        ],
+        "Role-Based Access Control": [
+          "FEAT-0627",
+          "FEAT-0423"
+        ],
+        "Encryption Implementation": [
+          "FEAT-0505",
+          "FEAT-0598"
+        ],
+        "Audit and Logging": [
+          "FEAT-0547"
+        ],
+        "Backend Security Enhancements": [
+          "FEAT-0637",
+          "FEAT-0505"
+        ],
+        "Dependency Upgrade": [
+          "TASK-0707"
+        ]
+      },
+      "high_priority": [
+        "FEAT-0435",
+        "FEAT-0553",
+        "FEAT-0454",
+        "FEAT-0505"
+      ],
+      "recommendation": "Focus on implementing critical security features for Authentication, such as two-factor authentication and encryption (FEAT-0435, FEAT-0553, FEAT-0454), due to their critical priority status and the essential role of authentication in system security."
+    },
+    "latency_seconds": 6.145864486694336,
+    "cost_dollars": 0.014199999999999999,
+    "input_tokens": 613,
+    "output_tokens": 269,
+    "model": "gpt-4-turbo",
+    "num_items_retrieved": 10
+  }
+]

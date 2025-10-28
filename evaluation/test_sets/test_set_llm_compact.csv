@@ -1,0 +1,2217 @@
+query,document_id,relevance,query_type
+enable multi-language support,UI-0001,0,feature
+enable multi-language support,SEC-0002,0,feature
+enable multi-language support,PERF-0003,0,feature
+enable multi-language support,API-0004,0,feature
+enable multi-language support,DATA-0005,0,feature
+enable multi-language support,FEA-0006,0,feature
+enable multi-language support,INT-0007,0,feature
+enable multi-language support,DB-0008,0,feature
+enable multi-language support,UI-0009,0,feature
+enable multi-language support,SEC-0010,0,feature
+enable multi-language support,API-0011,0,feature
+enable multi-language support,INT-0012,0,feature
+enable multi-language support,PERF-0013,0,feature
+enable multi-language support,FEA-0014,0,feature
+enable multi-language support,CRASH-0015,0,feature
+enable multi-language support,UI-0016,1,feature
+enable multi-language support,PERF-0017,1,feature
+enable multi-language support,API-0018,1,feature
+enable multi-language support,DB-0019,1,feature
+enable multi-language support,UI-0020,1,feature
+enable multi-language support,SEC-0021,1,feature
+enable multi-language support,FEA-0022,1,feature
+enable multi-language support,INT-0023,1,feature
+enable multi-language support,DATA-0024,1,feature
+enable multi-language support,PERF-0025,1,feature
+enable multi-language support,CRASH-0026,1,feature
+enable multi-language support,UI-0027,1,feature
+enable multi-language support,FEA-0028,1,feature
+enable multi-language support,API-0029,1,feature
+enable multi-language support,FEA-0030,2,feature
+enable multi-language support,UI-0031,2,feature
+enable multi-language support,INT-0032,2,feature
+enable multi-language support,SEC-0033,2,feature
+enable multi-language support,DATA-0034,2,feature
+enable multi-language support,FEA-0035,2,feature
+enable multi-language support,PERF-0036,2,feature
+enable multi-language support,CRASH-0037,2,feature
+enable multi-language support,UI-0038,2,feature
+enable multi-language support,API-0039,2,feature
+enable multi-language support,FEA-0040,2,feature
+enable multi-language support,INT-0041,2,feature
+enable multi-language support,SEC-0042,2,feature
+enable multi-language support,DATA-0043,2,feature
+enable multi-language support,PERF-0044,2,feature
+enable multi-language support,UI-0045,2,feature
+add multi-language support,UI-0101,0,feature
+add multi-language support,MOB-0102,0,feature
+add multi-language support,NOT-0103,0,feature
+add multi-language support,SEC-0104,0,feature
+add multi-language support,API-0105,0,feature
+add multi-language support,DB-0106,0,feature
+add multi-language support,PERF-0107,0,feature
+add multi-language support,UI-0108,0,feature
+add multi-language support,INT-0109,0,feature
+add multi-language support,DATA-0110,0,feature
+add multi-language support,UI-0111,0,feature
+add multi-language support,SEC-0112,0,feature
+add multi-language support,SYNC-0113,0,feature
+add multi-language support,PERF-0114,0,feature
+add multi-language support,MOB-0115,0,feature
+add multi-language support,FEAT-0116,1,feature
+add multi-language support,CFG-0117,1,feature
+add multi-language support,API-0118,1,feature
+add multi-language support,INT-0119,1,feature
+add multi-language support,UI-0120,1,feature
+add multi-language support,PERF-0121,1,feature
+add multi-language support,DB-0122,1,feature
+add multi-language support,SEC-0123,1,feature
+add multi-language support,FEAT-0124,1,feature
+add multi-language support,UI-0125,1,feature
+add multi-language support,INT-0126,1,feature
+add multi-language support,MOB-0127,1,feature
+add multi-language support,CFG-0128,1,feature
+add multi-language support,API-0129,1,feature
+add multi-language support,FEAT-0130,2,feature
+add multi-language support,INT-0131,2,feature
+add multi-language support,UI-0132,2,feature
+add multi-language support,SYNC-0133,2,feature
+add multi-language support,DB-0134,2,feature
+add multi-language support,SEC-0135,2,feature
+add multi-language support,PERF-0136,2,feature
+add multi-language support,CFG-0137,2,feature
+add multi-language support,API-0138,2,feature
+add multi-language support,UI-0139,2,feature
+add multi-language support,FEAT-0140,2,feature
+add multi-language support,INT-0141,2,feature
+add multi-language support,SEC-0142,2,feature
+add multi-language support,MOB-0143,2,feature
+add multi-language support,PERF-0144,2,feature
+add multi-language support,FEAT-0145,2,feature
+implement multi-language support,UI-0201,0,feature
+implement multi-language support,PERF-0202,0,feature
+implement multi-language support,SEC-0203,0,feature
+implement multi-language support,INT-0204,0,feature
+implement multi-language support,DATA-0205,0,feature
+implement multi-language support,UI-0206,0,feature
+implement multi-language support,CRASH-0207,0,feature
+implement multi-language support,UI-0208,0,feature
+implement multi-language support,DATA-0209,0,feature
+implement multi-language support,INT-0210,0,feature
+implement multi-language support,PERF-0211,0,feature
+implement multi-language support,UI-0212,0,feature
+implement multi-language support,SEC-0213,0,feature
+implement multi-language support,CRASH-0214,0,feature
+implement multi-language support,UI-0215,0,feature
+implement multi-language support,DATA-0216,1,feature
+implement multi-language support,UI-0217,1,feature
+implement multi-language support,INT-0218,1,feature
+implement multi-language support,PERF-0219,1,feature
+implement multi-language support,DATA-0220,1,feature
+implement multi-language support,SEC-0221,1,feature
+implement multi-language support,UI-0222,1,feature
+implement multi-language support,INT-0223,1,feature
+implement multi-language support,PERF-0224,1,feature
+implement multi-language support,UI-0225,1,feature
+implement multi-language support,DATA-0226,1,feature
+implement multi-language support,CRASH-0227,1,feature
+implement multi-language support,SEC-0228,1,feature
+implement multi-language support,UI-0229,1,feature
+implement multi-language support,INT-0230,1,feature
+implement multi-language support,DATA-0231,2,feature
+implement multi-language support,UI-0232,2,feature
+implement multi-language support,CRASH-0233,2,feature
+implement multi-language support,PERF-0234,2,feature
+implement multi-language support,SEC-0235,2,feature
+implement multi-language support,UI-0236,2,feature
+implement multi-language support,INT-0237,2,feature
+implement multi-language support,DATA-0238,2,feature
+implement multi-language support,UI-0239,2,feature
+implement multi-language support,CRASH-0240,2,feature
+implement multi-language support,SEC-0241,2,feature
+implement multi-language support,UI-0242,2,feature
+implement multi-language support,INT-0243,2,feature
+implement multi-language support,PERF-0244,2,feature
+implement multi-language support,DATA-0245,2,feature
+integrate social media sharing options,UI-0301,0,feature
+integrate social media sharing options,SEC-0302,0,feature
+integrate social media sharing options,PERF-0303,0,feature
+integrate social media sharing options,DATA-0304,0,feature
+integrate social media sharing options,INT-0305,0,feature
+integrate social media sharing options,API-0306,0,feature
+integrate social media sharing options,UI-0307,0,feature
+integrate social media sharing options,CRA-0308,0,feature
+integrate social media sharing options,SEC-0309,0,feature
+integrate social media sharing options,PERF-0310,0,feature
+integrate social media sharing options,DATA-0311,0,feature
+integrate social media sharing options,INT-0312,0,feature
+integrate social media sharing options,UI-0313,0,feature
+integrate social media sharing options,CRA-0314,0,feature
+integrate social media sharing options,API-0315,0,feature
+integrate social media sharing options,FEA-0316,1,feature
+integrate social media sharing options,UI-0317,1,feature
+integrate social media sharing options,PERF-0318,1,feature
+integrate social media sharing options,INT-0319,1,feature
+integrate social media sharing options,DATA-0320,1,feature
+integrate social media sharing options,SEC-0321,1,feature
+integrate social media sharing options,API-0322,1,feature
+integrate social media sharing options,UI-0323,1,feature
+integrate social media sharing options,FEA-0324,1,feature
+integrate social media sharing options,PERF-0325,1,feature
+integrate social media sharing options,INT-0326,1,feature
+integrate social media sharing options,DATA-0327,1,feature
+integrate social media sharing options,SEC-0328,1,feature
+integrate social media sharing options,FEA-0329,2,feature
+integrate social media sharing options,INT-0330,2,feature
+integrate social media sharing options,UI-0331,2,feature
+integrate social media sharing options,PERF-0332,2,feature
+integrate social media sharing options,DATA-0333,2,feature
+integrate social media sharing options,SEC-0334,2,feature
+integrate social media sharing options,FEA-0335,2,feature
+integrate social media sharing options,API-0336,2,feature
+integrate social media sharing options,UI-0337,2,feature
+integrate social media sharing options,INT-0338,2,feature
+integrate social media sharing options,FEA-0339,2,feature
+integrate social media sharing options,PERF-0340,2,feature
+integrate social media sharing options,SEC-0341,2,feature
+integrate social media sharing options,DATA-0342,2,feature
+integrate social media sharing options,INT-0343,2,feature
+integrate social media sharing options,FEA-0344,2,feature
+integrate social media sharing options,UI-0345,2,feature
+implement user profile customization options,UI-0401,0,feature
+implement user profile customization options,DB-0402,0,feature
+implement user profile customization options,SEC-0403,0,feature
+implement user profile customization options,INT-0404,0,feature
+implement user profile customization options,UI-0405,0,feature
+implement user profile customization options,PERF-0406,0,feature
+implement user profile customization options,NET-0407,0,feature
+implement user profile customization options,DATA-0408,0,feature
+implement user profile customization options,UI-0409,0,feature
+implement user profile customization options,SEC-0410,0,feature
+implement user profile customization options,CRASH-0411,0,feature
+implement user profile customization options,DATA-0412,0,feature
+implement user profile customization options,UI-0413,0,feature
+implement user profile customization options,NET-0414,0,feature
+implement user profile customization options,SEC-0415,0,feature
+implement user profile customization options,UI-0416,1,feature
+implement user profile customization options,UI-0417,1,feature
+implement user profile customization options,DATA-0418,1,feature
+implement user profile customization options,SEC-0419,1,feature
+implement user profile customization options,INT-0420,1,feature
+implement user profile customization options,UI-0421,1,feature
+implement user profile customization options,DATA-0422,1,feature
+implement user profile customization options,UI-0423,1,feature
+implement user profile customization options,CRASH-0424,1,feature
+implement user profile customization options,NET-0425,1,feature
+implement user profile customization options,UI-0426,1,feature
+implement user profile customization options,SEC-0427,1,feature
+implement user profile customization options,UI-0428,2,feature
+implement user profile customization options,CRASH-0429,2,feature
+implement user profile customization options,FEATURE-0430,2,feature
+implement user profile customization options,SEC-0431,2,feature
+implement user profile customization options,UI-0432,2,feature
+implement user profile customization options,DATA-0433,2,feature
+implement user profile customization options,INT-0434,2,feature
+implement user profile customization options,PERF-0435,2,feature
+implement user profile customization options,UI-0436,2,feature
+implement user profile customization options,SEC-0437,2,feature
+implement user profile customization options,UI-0438,2,feature
+implement user profile customization options,UI-0439,2,feature
+implement user profile customization options,SEC-0440,2,feature
+implement user profile customization options,INT-0441,2,feature
+implement user profile customization options,UI-0442,2,feature
+implement user profile customization options,DATA-0443,2,feature
+implement user profile customization options,UI-0444,2,feature
+implement user profile customization options,INT-0445,2,feature
+implement user role management,UI-0501,0,feature
+implement user role management,PER-0502,0,feature
+implement user role management,SEC-0503,0,feature
+implement user role management,API-0504,0,feature
+implement user role management,DATA-0505,0,feature
+implement user role management,UI-0506,0,feature
+implement user role management,PER-0507,0,feature
+implement user role management,SEC-0508,0,feature
+implement user role management,UI-0509,0,feature
+implement user role management,CRA-0510,0,feature
+implement user role management,DATA-0511,0,feature
+implement user role management,UI-0512,0,feature
+implement user role management,PER-0513,0,feature
+implement user role management,SEC-0514,0,feature
+implement user role management,API-0515,0,feature
+implement user role management,UI-0516,1,feature
+implement user role management,SEC-0517,1,feature
+implement user role management,PER-0518,1,feature
+implement user role management,API-0519,1,feature
+implement user role management,DATA-0520,1,feature
+implement user role management,UI-0521,1,feature
+implement user role management,PER-0522,1,feature
+implement user role management,SEC-0523,1,feature
+implement user role management,API-0524,1,feature
+implement user role management,UI-0525,1,feature
+implement user role management,PER-0526,1,feature
+implement user role management,SEC-0527,1,feature
+implement user role management,API-0528,1,feature
+implement user role management,UI-0529,1,feature
+implement user role management,SEC-0530,2,feature
+implement user role management,API-0531,2,feature
+implement user role management,UI-0532,2,feature
+implement user role management,API-0533,2,feature
+implement user role management,SEC-0534,2,feature
+implement user role management,UI-0535,2,feature
+implement user role management,DATA-0536,2,feature
+implement user role management,API-0537,2,feature
+implement user role management,SEC-0538,2,feature
+implement user role management,UI-0539,2,feature
+implement user role management,API-0540,2,feature
+implement user role management,SEC-0541,2,feature
+implement user role management,UI-0542,2,feature
+implement user role management,DATA-0543,2,feature
+implement user role management,API-0544,2,feature
+implement user role management,SEC-0545,2,feature
+implement user-defined dashboards,UI-0601,0,feature
+implement user-defined dashboards,PERF-0602,0,feature
+implement user-defined dashboards,SEC-0603,0,feature
+implement user-defined dashboards,INT-0604,0,feature
+implement user-defined dashboards,DATA-0605,0,feature
+implement user-defined dashboards,UI-0606,0,feature
+implement user-defined dashboards,SEC-0607,0,feature
+implement user-defined dashboards,PERF-0608,0,feature
+implement user-defined dashboards,INT-0609,0,feature
+implement user-defined dashboards,DATA-0610,0,feature
+implement user-defined dashboards,UI-0611,0,feature
+implement user-defined dashboards,PERF-0612,0,feature
+implement user-defined dashboards,SEC-0613,0,feature
+implement user-defined dashboards,INT-0614,0,feature
+implement user-defined dashboards,DATA-0615,0,feature
+implement user-defined dashboards,UI-0616,1,feature
+implement user-defined dashboards,DATA-0617,1,feature
+implement user-defined dashboards,PERF-0618,1,feature
+implement user-defined dashboards,UI-0619,1,feature
+implement user-defined dashboards,SEC-0620,1,feature
+implement user-defined dashboards,INT-0621,1,feature
+implement user-defined dashboards,DATA-0622,1,feature
+implement user-defined dashboards,UI-0623,1,feature
+implement user-defined dashboards,PERF-0624,1,feature
+implement user-defined dashboards,SEC-0625,1,feature
+implement user-defined dashboards,INT-0626,1,feature
+implement user-defined dashboards,UI-0627,1,feature
+implement user-defined dashboards,SEC-0628,1,feature
+implement user-defined dashboards,FEA-0629,2,feature
+implement user-defined dashboards,INT-0630,2,feature
+implement user-defined dashboards,UI-0631,2,feature
+implement user-defined dashboards,FEA-0632,2,feature
+implement user-defined dashboards,DATA-0633,2,feature
+implement user-defined dashboards,PERF-0634,2,feature
+implement user-defined dashboards,SEC-0635,2,feature
+implement user-defined dashboards,FEA-0636,2,feature
+implement user-defined dashboards,INT-0637,2,feature
+implement user-defined dashboards,DATA-0638,2,feature
+implement user-defined dashboards,UI-0639,2,feature
+implement user-defined dashboards,FEA-0640,2,feature
+implement user-defined dashboards,SEC-0641,2,feature
+implement user-defined dashboards,INT-0642,2,feature
+implement user-defined dashboards,FEA-0643,2,feature
+implement user-defined dashboards,DATA-0644,2,feature
+implement user-defined dashboards,PERF-0645,2,feature
+implement user role-based access control,UI-0701,0,feature
+implement user role-based access control,MOB-0702,0,feature
+implement user role-based access control,NOT-0703,0,feature
+implement user role-based access control,PERF-0704,0,feature
+implement user role-based access control,SEC-0705,0,feature
+implement user role-based access control,DB-0706,0,feature
+implement user role-based access control,UI-0707,0,feature
+implement user role-based access control,API-0708,0,feature
+implement user role-based access control,INT-0709,0,feature
+implement user role-based access control,MOB-0710,0,feature
+implement user role-based access control,UI-0711,0,feature
+implement user role-based access control,SEC-0712,0,feature
+implement user role-based access control,DB-0713,0,feature
+implement user role-based access control,UI-0714,0,feature
+implement user role-based access control,INT-0715,0,feature
+implement user role-based access control,PERF-0716,1,feature
+implement user role-based access control,SEC-0717,1,feature
+implement user role-based access control,AUTH-0718,1,feature
+implement user role-based access control,INT-0719,1,feature
+implement user role-based access control,DB-0720,1,feature
+implement user role-based access control,UI-0721,1,feature
+implement user role-based access control,SEC-0722,1,feature
+implement user role-based access control,PERF-0723,1,feature
+implement user role-based access control,API-0724,1,feature
+implement user role-based access control,DB-0725,1,feature
+implement user role-based access control,SEC-0726,1,feature
+implement user role-based access control,UI-0727,1,feature
+implement user role-based access control,INT-0728,1,feature
+implement user role-based access control,AUTH-0729,2,feature
+implement user role-based access control,SEC-0730,2,feature
+implement user role-based access control,AUTH-0731,2,feature
+implement user role-based access control,DB-0732,2,feature
+implement user role-based access control,SEC-0733,2,feature
+implement user role-based access control,AUTH-0734,2,feature
+implement user role-based access control,INT-0735,2,feature
+implement user role-based access control,UI-0736,2,feature
+implement user role-based access control,API-0737,2,feature
+implement user role-based access control,AUTH-0738,2,feature
+implement user role-based access control,SEC-0739,2,feature
+implement user role-based access control,AUTH-0740,2,feature
+implement user role-based access control,INT-0741,2,feature
+implement user role-based access control,DB-0742,2,feature
+implement user role-based access control,SEC-0743,2,feature
+implement user role-based access control,AUTH-0744,2,feature
+implement user role-based access control,API-0745,2,feature
+integrate real-time collaboration tools,UI-0801,0,feature
+integrate real-time collaboration tools,SEC-0802,0,feature
+integrate real-time collaboration tools,PER-0803,0,feature
+integrate real-time collaboration tools,DATA-0804,0,feature
+integrate real-time collaboration tools,API-0805,0,feature
+integrate real-time collaboration tools,UI-0806,0,feature
+integrate real-time collaboration tools,SEC-0807,0,feature
+integrate real-time collaboration tools,PER-0808,0,feature
+integrate real-time collaboration tools,DATA-0809,0,feature
+integrate real-time collaboration tools,UI-0810,0,feature
+integrate real-time collaboration tools,CRASH-0811,0,feature
+integrate real-time collaboration tools,UI-0812,0,feature
+integrate real-time collaboration tools,SEC-0813,0,feature
+integrate real-time collaboration tools,PER-0814,0,feature
+integrate real-time collaboration tools,DATA-0815,0,feature
+integrate real-time collaboration tools,INT-0816,1,feature
+integrate real-time collaboration tools,UI-0817,1,feature
+integrate real-time collaboration tools,CRASH-0818,1,feature
+integrate real-time collaboration tools,SEC-0819,1,feature
+integrate real-time collaboration tools,PER-0820,1,feature
+integrate real-time collaboration tools,INT-0821,1,feature
+integrate real-time collaboration tools,UI-0822,1,feature
+integrate real-time collaboration tools,DATA-0823,1,feature
+integrate real-time collaboration tools,SEC-0824,1,feature
+integrate real-time collaboration tools,PER-0825,1,feature
+integrate real-time collaboration tools,INT-0826,1,feature
+integrate real-time collaboration tools,DATA-0827,1,feature
+integrate real-time collaboration tools,UI-0828,1,feature
+integrate real-time collaboration tools,FEA-0829,2,feature
+integrate real-time collaboration tools,INT-0830,2,feature
+integrate real-time collaboration tools,PER-0831,2,feature
+integrate real-time collaboration tools,CRASH-0832,2,feature
+integrate real-time collaboration tools,API-0833,2,feature
+integrate real-time collaboration tools,SEC-0834,2,feature
+integrate real-time collaboration tools,DATA-0835,2,feature
+integrate real-time collaboration tools,UI-0836,2,feature
+integrate real-time collaboration tools,INT-0837,2,feature
+integrate real-time collaboration tools,PER-0838,2,feature
+integrate real-time collaboration tools,SEC-0839,2,feature
+integrate real-time collaboration tools,API-0840,2,feature
+integrate real-time collaboration tools,DATA-0841,2,feature
+integrate real-time collaboration tools,UI-0842,2,feature
+integrate real-time collaboration tools,CRASH-0843,2,feature
+integrate real-time collaboration tools,FEA-0844,2,feature
+integrate real-time collaboration tools,INT-0845,2,feature
+enhance user profile customization options,UI-0901,0,feature
+enhance user profile customization options,SEC-0902,0,feature
+enhance user profile customization options,PERF-0903,0,feature
+enhance user profile customization options,INT-0904,0,feature
+enhance user profile customization options,DATA-0905,0,feature
+enhance user profile customization options,CRASH-0906,0,feature
+enhance user profile customization options,UI-0907,0,feature
+enhance user profile customization options,SEC-0908,0,feature
+enhance user profile customization options,PERF-0909,0,feature
+enhance user profile customization options,INT-0910,0,feature
+enhance user profile customization options,DATA-0911,0,feature
+enhance user profile customization options,CRASH-0912,0,feature
+enhance user profile customization options,UI-0913,0,feature
+enhance user profile customization options,SEC-0914,0,feature
+enhance user profile customization options,PERF-0915,0,feature
+enhance user profile customization options,UI-0916,1,feature
+enhance user profile customization options,API-0917,1,feature
+enhance user profile customization options,UI-0918,1,feature
+enhance user profile customization options,SEC-0919,1,feature
+enhance user profile customization options,UI-0920,1,feature
+enhance user profile customization options,PERF-0921,1,feature
+enhance user profile customization options,UI-0922,1,feature
+enhance user profile customization options,FEA-0923,1,feature
+enhance user profile customization options,DATA-0924,1,feature
+enhance user profile customization options,SEC-0925,1,feature
+enhance user profile customization options,UI-0926,1,feature
+enhance user profile customization options,UI-0927,1,feature
+enhance user profile customization options,PERF-0928,1,feature
+enhance user profile customization options,UI-0929,2,feature
+enhance user profile customization options,UI-0930,2,feature
+enhance user profile customization options,UI-0931,2,feature
+enhance user profile customization options,UI-0932,2,feature
+enhance user profile customization options,UI-0933,2,feature
+enhance user profile customization options,UI-0934,2,feature
+enhance user profile customization options,UI-0935,2,feature
+enhance user profile customization options,UI-0936,2,feature
+enhance user profile customization options,UI-0937,2,feature
+enhance user profile customization options,UI-0938,2,feature
+enhance user profile customization options,UI-0939,2,feature
+enhance user profile customization options,UI-0940,2,feature
+enhance user profile customization options,UI-0941,2,feature
+enhance user profile customization options,UI-0942,2,feature
+enhance user profile customization options,UI-0943,2,feature
+enhance user profile customization options,UI-0944,2,feature
+enhance user profile customization options,UI-0945,2,feature
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1001,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),SEC-1002,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),API-1003,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),DB-1004,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),PERF-1005,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1006,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1007,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),INT-1008,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),SEC-1009,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1010,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),PERF-1011,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),FEAT-1012,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),DB-1013,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1014,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1015,0,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1016,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),PERF-1017,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),DB-1018,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),API-1019,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1020,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1021,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),API-1022,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),SEC-1023,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),FEAT-1024,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),DB-1025,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1026,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),PERF-1027,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),FEAT-1028,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1029,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),API-1030,1,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1031,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),DB-1032,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),API-1033,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1034,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1035,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1036,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),DB-1037,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),API-1038,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1039,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1040,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1041,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),DB-1042,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),API-1043,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),CRS-1044,2,specific
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),UI-1045,2,specific
+TypeError in payment processing module when handling invalid credit card input,UI-1101,0,specific
+TypeError in payment processing module when handling invalid credit card input,PERF-1102,0,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1103,0,specific
+TypeError in payment processing module when handling invalid credit card input,DATA-1104,0,specific
+TypeError in payment processing module when handling invalid credit card input,API-1105,0,specific
+TypeError in payment processing module when handling invalid credit card input,FEAT-1106,0,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1107,0,specific
+TypeError in payment processing module when handling invalid credit card input,UI-1108,0,specific
+TypeError in payment processing module when handling invalid credit card input,PERF-1109,0,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1110,0,specific
+TypeError in payment processing module when handling invalid credit card input,DATA-1111,0,specific
+TypeError in payment processing module when handling invalid credit card input,API-1112,0,specific
+TypeError in payment processing module when handling invalid credit card input,FEAT-1113,0,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1114,0,specific
+TypeError in payment processing module when handling invalid credit card input,UI-1115,0,specific
+TypeError in payment processing module when handling invalid credit card input,PERF-1116,1,specific
+TypeError in payment processing module when handling invalid credit card input,DATA-1117,1,specific
+TypeError in payment processing module when handling invalid credit card input,API-1118,1,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1119,1,specific
+TypeError in payment processing module when handling invalid credit card input,PERF-1120,1,specific
+TypeError in payment processing module when handling invalid credit card input,UI-1121,1,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1122,1,specific
+TypeError in payment processing module when handling invalid credit card input,DATA-1123,1,specific
+TypeError in payment processing module when handling invalid credit card input,PERF-1124,1,specific
+TypeError in payment processing module when handling invalid credit card input,UI-1125,1,specific
+TypeError in payment processing module when handling invalid credit card input,API-1126,1,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1127,1,specific
+TypeError in payment processing module when handling invalid credit card input,FEAT-1128,1,specific
+TypeError in payment processing module when handling invalid credit card input,CRA-1129,2,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1130,2,specific
+TypeError in payment processing module when handling invalid credit card input,DATA-1131,2,specific
+TypeError in payment processing module when handling invalid credit card input,PERF-1132,2,specific
+TypeError in payment processing module when handling invalid credit card input,UI-1133,2,specific
+TypeError in payment processing module when handling invalid credit card input,API-1134,2,specific
+TypeError in payment processing module when handling invalid credit card input,FEAT-1135,2,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1136,2,specific
+TypeError in payment processing module when handling invalid credit card input,DATA-1137,2,specific
+TypeError in payment processing module when handling invalid credit card input,PERF-1138,2,specific
+TypeError in payment processing module when handling invalid credit card input,UI-1139,2,specific
+TypeError in payment processing module when handling invalid credit card input,API-1140,2,specific
+TypeError in payment processing module when handling invalid credit card input,FEAT-1141,2,specific
+TypeError in payment processing module when handling invalid credit card input,SEC-1142,2,specific
+ConcurrentModificationException in order processing service during bulk updates,UI-1201,0,specific
+ConcurrentModificationException in order processing service during bulk updates,API-1202,0,specific
+ConcurrentModificationException in order processing service during bulk updates,SEC-1203,0,specific
+ConcurrentModificationException in order processing service during bulk updates,DB-1204,0,specific
+ConcurrentModificationException in order processing service during bulk updates,FEAT-1205,0,specific
+ConcurrentModificationException in order processing service during bulk updates,UI-1206,0,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1207,0,specific
+ConcurrentModificationException in order processing service during bulk updates,UI-1208,0,specific
+ConcurrentModificationException in order processing service during bulk updates,SEC-1209,0,specific
+ConcurrentModificationException in order processing service during bulk updates,INT-1210,0,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1211,0,specific
+ConcurrentModificationException in order processing service during bulk updates,UI-1212,0,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1213,0,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1214,0,specific
+ConcurrentModificationException in order processing service during bulk updates,UI-1215,0,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1216,1,specific
+ConcurrentModificationException in order processing service during bulk updates,INT-1217,1,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1218,1,specific
+ConcurrentModificationException in order processing service during bulk updates,SEC-1219,1,specific
+ConcurrentModificationException in order processing service during bulk updates,UI-1220,1,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1221,1,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1222,1,specific
+ConcurrentModificationException in order processing service during bulk updates,API-1223,1,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1224,1,specific
+ConcurrentModificationException in order processing service during bulk updates,SEC-1225,1,specific
+ConcurrentModificationException in order processing service during bulk updates,UI-1226,1,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1227,1,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1228,1,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1229,1,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1230,2,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1231,2,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1232,2,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1233,2,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1234,2,specific
+ConcurrentModificationException in order processing service during bulk updates,LOG-1235,2,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1236,2,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1237,2,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1238,2,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1239,2,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1240,2,specific
+ConcurrentModificationException in order processing service during bulk updates,PERF-1241,2,specific
+ConcurrentModificationException in order processing service during bulk updates,CRASH-1242,2,specific
+ConcurrentModificationException in order processing service during bulk updates,DATA-1243,2,specific
+TypeError when updating user profile in React app,UI-1301,0,specific
+TypeError when updating user profile in React app,MOB-1302,0,specific
+TypeError when updating user profile in React app,NOT-1303,0,specific
+TypeError when updating user profile in React app,SEC-1304,0,specific
+TypeError when updating user profile in React app,API-1305,0,specific
+TypeError when updating user profile in React app,DB-1306,0,specific
+TypeError when updating user profile in React app,UI-1307,0,specific
+TypeError when updating user profile in React app,AUTH-1308,0,specific
+TypeError when updating user profile in React app,PERF-1309,0,specific
+TypeError when updating user profile in React app,INT-1310,0,specific
+TypeError when updating user profile in React app,UI-1311,0,specific
+TypeError when updating user profile in React app,DB-1312,0,specific
+TypeError when updating user profile in React app,MOB-1313,0,specific
+TypeError when updating user profile in React app,SEC-1314,0,specific
+TypeError when updating user profile in React app,UI-1315,0,specific
+TypeError when updating user profile in React app,PERF-1316,1,specific
+TypeError when updating user profile in React app,AUTH-1317,1,specific
+TypeError when updating user profile in React app,UI-1318,1,specific
+TypeError when updating user profile in React app,DB-1319,1,specific
+TypeError when updating user profile in React app,INT-1320,1,specific
+TypeError when updating user profile in React app,UI-1321,1,specific
+TypeError when updating user profile in React app,API-1322,1,specific
+TypeError when updating user profile in React app,SEC-1323,1,specific
+TypeError when updating user profile in React app,UI-1324,1,specific
+TypeError when updating user profile in React app,MOB-1325,1,specific
+TypeError when updating user profile in React app,PERF-1326,1,specific
+TypeError when updating user profile in React app,SEC-1327,1,specific
+TypeError when updating user profile in React app,API-1328,1,specific
+TypeError when updating user profile in React app,UI-1329,2,specific
+TypeError when updating user profile in React app,CRA-1330,2,specific
+TypeError when updating user profile in React app,API-1331,2,specific
+TypeError when updating user profile in React app,UI-1332,2,specific
+TypeError when updating user profile in React app,LOG-1333,2,specific
+TypeError when updating user profile in React app,SEC-1334,2,specific
+TypeError when updating user profile in React app,API-1335,2,specific
+TypeError when updating user profile in React app,UI-1336,2,specific
+TypeError when updating user profile in React app,API-1337,2,specific
+TypeError when updating user profile in React app,PERF-1338,2,specific
+TypeError when updating user profile in React app,SEC-1339,2,specific
+TypeError when updating user profile in React app,UI-1340,2,specific
+TypeError when updating user profile in React app,API-1341,2,specific
+TypeError when updating user profile in React app,LOG-1342,2,specific
+TypeError when updating user profile in React app,SEC-1343,2,specific
+TypeError when parsing JSON response in fetchData function,UI-1401,0,specific
+TypeError when parsing JSON response in fetchData function,SEC-1402,0,specific
+TypeError when parsing JSON response in fetchData function,PERF-1403,0,specific
+TypeError when parsing JSON response in fetchData function,INT-1404,0,specific
+TypeError when parsing JSON response in fetchData function,DATA-1405,0,specific
+TypeError when parsing JSON response in fetchData function,UI-1406,0,specific
+TypeError when parsing JSON response in fetchData function,SEC-1407,0,specific
+TypeError when parsing JSON response in fetchData function,APP-1408,0,specific
+TypeError when parsing JSON response in fetchData function,PERF-1409,0,specific
+TypeError when parsing JSON response in fetchData function,UI-1410,0,specific
+TypeError when parsing JSON response in fetchData function,NET-1411,0,specific
+TypeError when parsing JSON response in fetchData function,INT-1412,0,specific
+TypeError when parsing JSON response in fetchData function,SEC-1413,0,specific
+TypeError when parsing JSON response in fetchData function,UI-1414,0,specific
+TypeError when parsing JSON response in fetchData function,DATA-1415,0,specific
+TypeError when parsing JSON response in fetchData function,PERF-1416,1,specific
+TypeError when parsing JSON response in fetchData function,INT-1417,1,specific
+TypeError when parsing JSON response in fetchData function,DATA-1418,1,specific
+TypeError when parsing JSON response in fetchData function,APP-1419,1,specific
+TypeError when parsing JSON response in fetchData function,SEC-1420,1,specific
+TypeError when parsing JSON response in fetchData function,DATA-1421,1,specific
+TypeError when parsing JSON response in fetchData function,INT-1422,1,specific
+TypeError when parsing JSON response in fetchData function,APP-1423,1,specific
+TypeError when parsing JSON response in fetchData function,SEC-1424,1,specific
+TypeError when parsing JSON response in fetchData function,DATA-1425,1,specific
+TypeError when parsing JSON response in fetchData function,UI-1426,1,specific
+TypeError when parsing JSON response in fetchData function,PERF-1427,1,specific
+TypeError when parsing JSON response in fetchData function,DATA-1428,1,specific
+TypeError when parsing JSON response in fetchData function,API-1429,2,specific
+TypeError when parsing JSON response in fetchData function,APP-1430,2,specific
+TypeError when parsing JSON response in fetchData function,INT-1431,2,specific
+TypeError when parsing JSON response in fetchData function,DATA-1432,2,specific
+TypeError when parsing JSON response in fetchData function,APP-1433,2,specific
+TypeError when parsing JSON response in fetchData function,SEC-1434,2,specific
+TypeError when parsing JSON response in fetchData function,PERF-1435,2,specific
+TypeError when parsing JSON response in fetchData function,INT-1436,2,specific
+TypeError when parsing JSON response in fetchData function,DATA-1437,2,specific
+TypeError when parsing JSON response in fetchData function,UI-1438,2,specific
+TypeError when parsing JSON response in fetchData function,SEC-1439,2,specific
+TypeError when parsing JSON response in fetchData function,APP-1440,2,specific
+TypeError when parsing JSON response in fetchData function,PERF-1441,2,specific
+TypeError when parsing JSON response in fetchData function,INT-1442,2,specific
+Race condition in order processing during high load scenario,UI-1501,0,specific
+Race condition in order processing during high load scenario,SEC-1502,0,specific
+Race condition in order processing during high load scenario,PERF-1503,0,specific
+Race condition in order processing during high load scenario,INT-1504,0,specific
+Race condition in order processing during high load scenario,DATA-1505,0,specific
+Race condition in order processing during high load scenario,FEA-1506,0,specific
+Race condition in order processing during high load scenario,PERF-1507,0,specific
+Race condition in order processing during high load scenario,SEC-1508,0,specific
+Race condition in order processing during high load scenario,UI-1509,0,specific
+Race condition in order processing during high load scenario,FEA-1510,0,specific
+Race condition in order processing during high load scenario,CR-1511,0,specific
+Race condition in order processing during high load scenario,INT-1512,0,specific
+Race condition in order processing during high load scenario,DATA-1513,0,specific
+Race condition in order processing during high load scenario,PERF-1514,0,specific
+Race condition in order processing during high load scenario,UI-1515,0,specific
+Race condition in order processing during high load scenario,PERF-1516,1,specific
+Race condition in order processing during high load scenario,DATA-1517,1,specific
+Race condition in order processing during high load scenario,CR-1518,1,specific
+Race condition in order processing during high load scenario,INT-1519,1,specific
+Race condition in order processing during high load scenario,FEA-1520,1,specific
+Race condition in order processing during high load scenario,PERF-1521,1,specific
+Race condition in order processing during high load scenario,UI-1522,1,specific
+Race condition in order processing during high load scenario,PERF-1523,1,specific
+Race condition in order processing during high load scenario,DATA-1524,1,specific
+Race condition in order processing during high load scenario,FEA-1525,1,specific
+Race condition in order processing during high load scenario,SEC-1526,1,specific
+Race condition in order processing during high load scenario,PERF-1527,1,specific
+Race condition in order processing during high load scenario,UI-1528,1,specific
+Race condition in order processing during high load scenario,CR-1529,2,specific
+Race condition in order processing during high load scenario,PERF-1530,2,specific
+Race condition in order processing during high load scenario,INT-1531,2,specific
+Race condition in order processing during high load scenario,DATA-1532,2,specific
+Race condition in order processing during high load scenario,CR-1533,2,specific
+Race condition in order processing during high load scenario,PERF-1534,2,specific
+Race condition in order processing during high load scenario,DATA-1535,2,specific
+Race condition in order processing during high load scenario,SEC-1536,2,specific
+Race condition in order processing during high load scenario,PERF-1537,2,specific
+Race condition in order processing during high load scenario,INT-1538,2,specific
+Race condition in order processing during high load scenario,CR-1539,2,specific
+Race condition in order processing during high load scenario,DATA-1540,2,specific
+Race condition in order processing during high load scenario,SEC-1541,2,specific
+Race condition in order processing during high load scenario,PERF-1542,2,specific
+Race condition in order processing during high load scenario,INT-1543,2,specific
+Race condition in order processing during high load scenario,CR-1544,2,specific
+Race condition in order processing during high load scenario,DATA-1545,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,UI-1601,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1602,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,SEC-1603,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1604,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1605,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,FEAT-1606,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,UI-1607,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1608,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,SEC-1609,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1610,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1611,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,FEAT-1612,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,UI-1613,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1614,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,SEC-1615,0,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1616,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1617,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1618,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,UI-1619,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1620,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,SEC-1621,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1622,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1623,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,FEAT-1624,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,UI-1625,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1626,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,SEC-1627,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1628,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1629,1,specific
+IndexOutOfBoundsException in ArrayList processing user input,CRASH-1630,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1631,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1632,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,UI-1633,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1634,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,SEC-1635,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1636,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1637,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,FEAT-1638,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,UI-1639,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,CRASH-1640,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,SEC-1641,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,INT-1642,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,DATA-1643,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,PERF-1644,2,specific
+IndexOutOfBoundsException in ArrayList processing user input,CRASH-1645,2,specific
+TypeError when rendering user profile component with missing profile data,UI-1701,0,specific
+TypeError when rendering user profile component with missing profile data,PERF-1702,0,specific
+TypeError when rendering user profile component with missing profile data,SEC-1703,0,specific
+TypeError when rendering user profile component with missing profile data,INTG-1704,0,specific
+TypeError when rendering user profile component with missing profile data,DATA-1705,0,specific
+TypeError when rendering user profile component with missing profile data,FEATURE-1706,0,specific
+TypeError when rendering user profile component with missing profile data,UI-1707,0,specific
+TypeError when rendering user profile component with missing profile data,SEC-1708,0,specific
+TypeError when rendering user profile component with missing profile data,CRASH-1709,0,specific
+TypeError when rendering user profile component with missing profile data,UI-1710,0,specific
+TypeError when rendering user profile component with missing profile data,PERF-1711,0,specific
+TypeError when rendering user profile component with missing profile data,DATA-1712,0,specific
+TypeError when rendering user profile component with missing profile data,SEC-1713,0,specific
+TypeError when rendering user profile component with missing profile data,INTG-1714,0,specific
+TypeError when rendering user profile component with missing profile data,FEATURE-1715,0,specific
+TypeError when rendering user profile component with missing profile data,UI-1716,1,specific
+TypeError when rendering user profile component with missing profile data,CRASH-1717,1,specific
+TypeError when rendering user profile component with missing profile data,DATA-1718,1,specific
+TypeError when rendering user profile component with missing profile data,UI-1719,1,specific
+TypeError when rendering user profile component with missing profile data,SEC-1720,1,specific
+TypeError when rendering user profile component with missing profile data,PERF-1721,1,specific
+TypeError when rendering user profile component with missing profile data,UI-1722,1,specific
+TypeError when rendering user profile component with missing profile data,DATA-1723,1,specific
+TypeError when rendering user profile component with missing profile data,INTG-1724,1,specific
+TypeError when rendering user profile component with missing profile data,CRASH-1725,1,specific
+TypeError when rendering user profile component with missing profile data,PERF-1726,1,specific
+TypeError when rendering user profile component with missing profile data,FEATURE-1727,1,specific
+TypeError when rendering user profile component with missing profile data,UI-1728,1,specific
+TypeError when rendering user profile component with missing profile data,SEC-1729,1,specific
+TypeError when rendering user profile component with missing profile data,CRASH-1730,2,specific
+TypeError when rendering user profile component with missing profile data,DATA-1731,2,specific
+TypeError when rendering user profile component with missing profile data,INTG-1732,2,specific
+TypeError when rendering user profile component with missing profile data,FEATURE-1733,2,specific
+TypeError when rendering user profile component with missing profile data,UI-1734,2,specific
+TypeError when rendering user profile component with missing profile data,CRASH-1735,2,specific
+TypeError when rendering user profile component with missing profile data,SEC-1736,2,specific
+TypeError when rendering user profile component with missing profile data,PERF-1737,2,specific
+TypeError when rendering user profile component with missing profile data,DATA-1738,2,specific
+TypeError when rendering user profile component with missing profile data,INTG-1739,2,specific
+TypeError when rendering user profile component with missing profile data,UI-1740,2,specific
+TypeError when rendering user profile component with missing profile data,SEC-1741,2,specific
+TypeError when rendering user profile component with missing profile data,FEATURE-1742,2,specific
+TypeError when rendering user profile component with missing profile data,PERF-1743,2,specific
+TypeError when rendering user profile component with missing profile data,DATA-1744,2,specific
+TypeError when rendering user profile component with missing profile data,CRASH-1745,2,specific
+TypeError in cart checkout process when applying discount code,UI-1801,0,specific
+TypeError in cart checkout process when applying discount code,SEC-1802,0,specific
+TypeError in cart checkout process when applying discount code,PERF-1803,0,specific
+TypeError in cart checkout process when applying discount code,API-1804,0,specific
+TypeError in cart checkout process when applying discount code,DB-1805,0,specific
+TypeError in cart checkout process when applying discount code,UI-1806,0,specific
+TypeError in cart checkout process when applying discount code,INT-1807,0,specific
+TypeError in cart checkout process when applying discount code,DATA-1808,0,specific
+TypeError in cart checkout process when applying discount code,UI-1809,0,specific
+TypeError in cart checkout process when applying discount code,SEC-1810,0,specific
+TypeError in cart checkout process when applying discount code,UI-1811,0,specific
+TypeError in cart checkout process when applying discount code,PERF-1812,0,specific
+TypeError in cart checkout process when applying discount code,INT-1813,0,specific
+TypeError in cart checkout process when applying discount code,DB-1814,0,specific
+TypeError in cart checkout process when applying discount code,UI-1815,0,specific
+TypeError in cart checkout process when applying discount code,PERF-1816,1,specific
+TypeError in cart checkout process when applying discount code,SEC-1817,1,specific
+TypeError in cart checkout process when applying discount code,API-1818,1,specific
+TypeError in cart checkout process when applying discount code,DATA-1819,1,specific
+TypeError in cart checkout process when applying discount code,UI-1820,1,specific
+TypeError in cart checkout process when applying discount code,PERF-1821,1,specific
+TypeError in cart checkout process when applying discount code,INT-1822,1,specific
+TypeError in cart checkout process when applying discount code,DB-1823,1,specific
+TypeError in cart checkout process when applying discount code,UI-1824,1,specific
+TypeError in cart checkout process when applying discount code,SEC-1825,1,specific
+TypeError in cart checkout process when applying discount code,PERF-1826,1,specific
+TypeError in cart checkout process when applying discount code,DATA-1827,1,specific
+TypeError in cart checkout process when applying discount code,UI-1828,1,specific
+TypeError in cart checkout process when applying discount code,SEC-1829,1,specific
+TypeError in cart checkout process when applying discount code,CRASH-1830,2,specific
+TypeError in cart checkout process when applying discount code,API-1831,2,specific
+TypeError in cart checkout process when applying discount code,DATA-1832,2,specific
+TypeError in cart checkout process when applying discount code,UI-1833,2,specific
+TypeError in cart checkout process when applying discount code,PERF-1834,2,specific
+TypeError in cart checkout process when applying discount code,INT-1835,2,specific
+TypeError in cart checkout process when applying discount code,SEC-1836,2,specific
+TypeError in cart checkout process when applying discount code,CRASH-1837,2,specific
+TypeError in cart checkout process when applying discount code,DB-1838,2,specific
+TypeError in cart checkout process when applying discount code,PERF-1839,2,specific
+TypeError in cart checkout process when applying discount code,UI-1840,2,specific
+TypeError in cart checkout process when applying discount code,INT-1841,2,specific
+TypeError in cart checkout process when applying discount code,SEC-1842,2,specific
+TypeError in cart checkout process when applying discount code,CRASH-1843,2,specific
+TypeError in cart checkout process when applying discount code,API-1844,2,specific
+TypeError in cart checkout process when applying discount code,DATA-1845,2,specific
+TypeError in fetchData function within userProfile.js,UI-1900,0,specific
+TypeError in fetchData function within userProfile.js,SEC-1901,0,specific
+TypeError in fetchData function within userProfile.js,PERF-1902,0,specific
+TypeError in fetchData function within userProfile.js,DB-1903,0,specific
+TypeError in fetchData function within userProfile.js,INT-1904,0,specific
+TypeError in fetchData function within userProfile.js,UI-1905,0,specific
+TypeError in fetchData function within userProfile.js,FEAT-1906,0,specific
+TypeError in fetchData function within userProfile.js,SEC-1907,0,specific
+TypeError in fetchData function within userProfile.js,UI-1908,0,specific
+TypeError in fetchData function within userProfile.js,CRASH-1909,0,specific
+TypeError in fetchData function within userProfile.js,DATA-1910,0,specific
+TypeError in fetchData function within userProfile.js,INT-1911,0,specific
+TypeError in fetchData function within userProfile.js,UI-1912,0,specific
+TypeError in fetchData function within userProfile.js,CRASH-1913,0,specific
+TypeError in fetchData function within userProfile.js,PERF-1914,0,specific
+TypeError in fetchData function within userProfile.js,FUNC-1915,1,specific
+TypeError in fetchData function within userProfile.js,PERF-1916,1,specific
+TypeError in fetchData function within userProfile.js,FUNC-1917,1,specific
+TypeError in fetchData function within userProfile.js,INT-1918,1,specific
+TypeError in fetchData function within userProfile.js,SEC-1919,1,specific
+TypeError in fetchData function within userProfile.js,DATA-1920,1,specific
+TypeError in fetchData function within userProfile.js,PERF-1921,1,specific
+TypeError in fetchData function within userProfile.js,CRASH-1922,1,specific
+TypeError in fetchData function within userProfile.js,UI-1923,1,specific
+TypeError in fetchData function within userProfile.js,CRASH-1924,1,specific
+TypeError in fetchData function within userProfile.js,INT-1925,1,specific
+TypeError in fetchData function within userProfile.js,FUNC-1926,1,specific
+TypeError in fetchData function within userProfile.js,SEC-1927,1,specific
+TypeError in fetchData function within userProfile.js,CRASH-1928,2,specific
+TypeError in fetchData function within userProfile.js,FUNC-1929,2,specific
+TypeError in fetchData function within userProfile.js,PERF-1930,2,specific
+TypeError in fetchData function within userProfile.js,INT-1931,2,specific
+TypeError in fetchData function within userProfile.js,DATA-1932,2,specific
+TypeError in fetchData function within userProfile.js,CRASH-1933,2,specific
+TypeError in fetchData function within userProfile.js,FUNC-1934,2,specific
+TypeError in fetchData function within userProfile.js,PERF-1935,2,specific
+TypeError in fetchData function within userProfile.js,SEC-1936,2,specific
+TypeError in fetchData function within userProfile.js,FUNC-1937,2,specific
+TypeError in fetchData function within userProfile.js,UI-1938,2,specific
+TypeError in fetchData function within userProfile.js,INT-1939,2,specific
+TypeError in fetchData function within userProfile.js,CRASH-1940,2,specific
+TypeError in fetchData function within userProfile.js,DATA-1941,2,specific
+optimize database query performance,UI-2001,0,task
+optimize database query performance,SEC-2002,0,task
+optimize database query performance,INT-2003,0,task
+optimize database query performance,DAT-2004,0,task
+optimize database query performance,CRS-2005,0,task
+optimize database query performance,PERF-2006,0,task
+optimize database query performance,SEC-2007,0,task
+optimize database query performance,UI-2008,0,task
+optimize database query performance,DAT-2009,0,task
+optimize database query performance,INT-2010,0,task
+optimize database query performance,UI-2011,0,task
+optimize database query performance,CRS-2012,0,task
+optimize database query performance,PERF-2013,0,task
+optimize database query performance,SEC-2014,0,task
+optimize database query performance,UI-2015,0,task
+optimize database query performance,PERF-2016,1,task
+optimize database query performance,DAT-2017,1,task
+optimize database query performance,INT-2018,1,task
+optimize database query performance,UI-2019,1,task
+optimize database query performance,SEC-2020,1,task
+optimize database query performance,PERF-2021,1,task
+optimize database query performance,CRS-2022,1,task
+optimize database query performance,DAT-2023,1,task
+optimize database query performance,UI-2024,1,task
+optimize database query performance,SEC-2025,1,task
+optimize database query performance,PERF-2026,1,task
+optimize database query performance,CRS-2027,1,task
+optimize database query performance,DAT-2028,1,task
+optimize database query performance,PERF-2029,2,task
+optimize database query performance,PERF-2030,2,task
+optimize database query performance,PERF-2031,2,task
+optimize database query performance,PERF-2032,2,task
+optimize database query performance,PERF-2033,2,task
+optimize database query performance,PERF-2034,2,task
+optimize database query performance,PERF-2035,2,task
+optimize database query performance,PERF-2036,2,task
+optimize database query performance,PERF-2037,2,task
+optimize database query performance,PERF-2038,2,task
+optimize database query performance,PERF-2039,2,task
+optimize database query performance,PERF-2040,2,task
+optimize database query performance,PERF-2041,2,task
+optimize database query performance,PERF-2042,2,task
+optimize database query performance,PERF-2043,2,task
+optimize database query performance,PERF-2044,2,task
+optimize database query performance,PERF-2045,2,task
+optimize database queries for performance,UI-2101,0,task
+optimize database queries for performance,LOG-2102,0,task
+optimize database queries for performance,SEC-2103,0,task
+optimize database queries for performance,UI-2104,0,task
+optimize database queries for performance,API-2105,0,task
+optimize database queries for performance,UI-2106,0,task
+optimize database queries for performance,DATA-2107,0,task
+optimize database queries for performance,UI-2108,0,task
+optimize database queries for performance,INT-2109,0,task
+optimize database queries for performance,SEC-2110,0,task
+optimize database queries for performance,UI-2111,0,task
+optimize database queries for performance,FEAT-2112,0,task
+optimize database queries for performance,UI-2113,0,task
+optimize database queries for performance,INT-2114,0,task
+optimize database queries for performance,DATA-2115,0,task
+optimize database queries for performance,PERF-2116,1,task
+optimize database queries for performance,PERF-2117,1,task
+optimize database queries for performance,PERF-2118,1,task
+optimize database queries for performance,INT-2119,1,task
+optimize database queries for performance,PERF-2120,1,task
+optimize database queries for performance,PERF-2121,1,task
+optimize database queries for performance,PERF-2122,1,task
+optimize database queries for performance,PERF-2123,1,task
+optimize database queries for performance,PERF-2124,1,task
+optimize database queries for performance,PERF-2125,1,task
+optimize database queries for performance,PERF-2126,1,task
+optimize database queries for performance,PERF-2127,1,task
+optimize database queries for performance,PERF-2128,1,task
+optimize database queries for performance,DB-2129,2,task
+optimize database queries for performance,DB-2130,2,task
+optimize database queries for performance,DB-2131,2,task
+optimize database queries for performance,DB-2132,2,task
+optimize database queries for performance,DB-2133,2,task
+optimize database queries for performance,DB-2134,2,task
+optimize database queries for performance,DB-2135,2,task
+optimize database queries for performance,DB-2136,2,task
+optimize database queries for performance,DB-2137,2,task
+optimize database queries for performance,DB-2138,2,task
+optimize database queries for performance,DB-2139,2,task
+optimize database queries for performance,DB-2140,2,task
+optimize database queries for performance,DB-2141,2,task
+optimize database queries for performance,DB-2142,2,task
+optimize database queries,UI-2201,0,task
+optimize database queries,SEC-2202,0,task
+optimize database queries,UI-2203,0,task
+optimize database queries,NET-2204,0,task
+optimize database queries,UI-2205,0,task
+optimize database queries,PERF-2206,0,task
+optimize database queries,DATA-2207,0,task
+optimize database queries,CRASH-2208,0,task
+optimize database queries,AUTH-2209,0,task
+optimize database queries,UI-2210,0,task
+optimize database queries,SEC-2211,0,task
+optimize database queries,UI-2212,0,task
+optimize database queries,PERF-2213,0,task
+optimize database queries,DATA-2214,0,task
+optimize database queries,FEAT-2215,0,task
+optimize database queries,PERF-2216,1,task
+optimize database queries,DATA-2217,1,task
+optimize database queries,UI-2218,1,task
+optimize database queries,CRASH-2219,1,task
+optimize database queries,NET-2220,1,task
+optimize database queries,PERF-2221,1,task
+optimize database queries,SEC-2222,1,task
+optimize database queries,FEAT-2223,1,task
+optimize database queries,UI-2224,1,task
+optimize database queries,DATA-2225,1,task
+optimize database queries,PERF-2226,1,task
+optimize database queries,FEAT-2227,1,task
+optimize database queries,SEC-2228,1,task
+optimize database queries,PERF-2229,2,task
+optimize database queries,DATA-2230,2,task
+optimize database queries,PERF-2231,2,task
+optimize database queries,DATA-2232,2,task
+optimize database queries,PERF-2233,2,task
+optimize database queries,DATA-2234,2,task
+optimize database queries,PERF-2235,2,task
+optimize database queries,DATA-2236,2,task
+optimize database queries,PERF-2237,2,task
+optimize database queries,DATA-2238,2,task
+optimize database queries,PERF-2239,2,task
+optimize database queries,DATA-2240,2,task
+optimize database queries,PERF-2241,2,task
+optimize database queries,DATA-2242,2,task
+optimize database queries,PERF-2243,2,task
+NullPointerException in user authentication module,UI-2301,0,technical
+NullPointerException in user authentication module,MOB-2302,0,technical
+NullPointerException in user authentication module,EMAIL-2303,0,technical
+NullPointerException in user authentication module,DB-2304,0,technical
+NullPointerException in user authentication module,SEC-2305,0,technical
+NullPointerException in user authentication module,API-2306,0,technical
+NullPointerException in user authentication module,PERF-2307,0,technical
+NullPointerException in user authentication module,UI-2308,0,technical
+NullPointerException in user authentication module,CRA-2309,0,technical
+NullPointerException in user authentication module,INT-2310,0,technical
+NullPointerException in user authentication module,UI-2311,0,technical
+NullPointerException in user authentication module,MOB-2312,0,technical
+NullPointerException in user authentication module,SEC-2313,0,technical
+NullPointerException in user authentication module,DB-2314,0,technical
+NullPointerException in user authentication module,UI-2315,0,technical
+NullPointerException in user authentication module,AUTH-2316,1,technical
+NullPointerException in user authentication module,AUTH-2317,1,technical
+NullPointerException in user authentication module,AUTH-2318,1,technical
+NullPointerException in user authentication module,AUTH-2319,1,technical
+NullPointerException in user authentication module,AUTH-2320,1,technical
+NullPointerException in user authentication module,AUTH-2321,1,technical
+NullPointerException in user authentication module,AUTH-2322,1,technical
+NullPointerException in user authentication module,AUTH-2323,1,technical
+NullPointerException in user authentication module,AUTH-2324,1,technical
+NullPointerException in user authentication module,AUTH-2325,1,technical
+NullPointerException in user authentication module,AUTH-2326,1,technical
+NullPointerException in user authentication module,AUTH-2327,1,technical
+NullPointerException in user authentication module,AUTH-2328,1,technical
+NullPointerException in user authentication module,AUTH-2329,2,technical
+NullPointerException in user authentication module,AUTH-2330,2,technical
+NullPointerException in user authentication module,AUTH-2331,2,technical
+NullPointerException in user authentication module,AUTH-2332,2,technical
+NullPointerException in user authentication module,AUTH-2333,2,technical
+NullPointerException in user authentication module,AUTH-2334,2,technical
+NullPointerException in user authentication module,AUTH-2335,2,technical
+NullPointerException in user authentication module,AUTH-2336,2,technical
+NullPointerException in user authentication module,AUTH-2337,2,technical
+NullPointerException in user authentication module,AUTH-2338,2,technical
+NullPointerException in user authentication module,AUTH-2339,2,technical
+NullPointerException in user authentication module,AUTH-2340,2,technical
+NullPointerException in user authentication module,AUTH-2341,2,technical
+NullPointerException in user authentication module,AUTH-2342,2,technical
+NullPointerException in user authentication module,AUTH-2343,2,technical
+NullPointerException in user authentication service,UI-2401,0,technical
+NullPointerException in user authentication service,SEC-2402,0,technical
+NullPointerException in user authentication service,PERF-2403,0,technical
+NullPointerException in user authentication service,INT-2404,0,technical
+NullPointerException in user authentication service,DATA-2405,0,technical
+NullPointerException in user authentication service,CRA-2406,0,technical
+NullPointerException in user authentication service,FEAT-2407,0,technical
+NullPointerException in user authentication service,UI-2408,0,technical
+NullPointerException in user authentication service,DB-2409,0,technical
+NullPointerException in user authentication service,SEC-2410,0,technical
+NullPointerException in user authentication service,PERF-2411,0,technical
+NullPointerException in user authentication service,FEAT-2412,0,technical
+NullPointerException in user authentication service,UI-2413,0,technical
+NullPointerException in user authentication service,DATA-2414,0,technical
+NullPointerException in user authentication service,INT-2415,0,technical
+NullPointerException in user authentication service,PERF-2416,1,technical
+NullPointerException in user authentication service,INT-2417,1,technical
+NullPointerException in user authentication service,SEC-2418,1,technical
+NullPointerException in user authentication service,UI-2419,1,technical
+NullPointerException in user authentication service,INT-2420,1,technical
+NullPointerException in user authentication service,FEAT-2421,1,technical
+NullPointerException in user authentication service,SEC-2422,1,technical
+NullPointerException in user authentication service,DATA-2423,1,technical
+NullPointerException in user authentication service,PERF-2424,1,technical
+NullPointerException in user authentication service,FEAT-2425,1,technical
+NullPointerException in user authentication service,UI-2426,1,technical
+NullPointerException in user authentication service,SEC-2427,1,technical
+NullPointerException in user authentication service,DATA-2428,1,technical
+NullPointerException in user authentication service,INT-2429,1,technical
+NullPointerException in user authentication service,CRA-2430,2,technical
+NullPointerException in user authentication service,SEC-2431,2,technical
+NullPointerException in user authentication service,INT-2432,2,technical
+NullPointerException in user authentication service,PERF-2433,2,technical
+NullPointerException in user authentication service,DATA-2434,2,technical
+NullPointerException in user authentication service,UI-2435,2,technical
+NullPointerException in user authentication service,SEC-2436,2,technical
+NullPointerException in user authentication service,INT-2437,2,technical
+NullPointerException in user authentication service,DATA-2438,2,technical
+NullPointerException in user authentication service,FEAT-2439,2,technical
+NullPointerException in user authentication service,UI-2440,2,technical
+NullPointerException in user authentication service,SEC-2441,2,technical
+NullPointerException in user authentication service,DATA-2442,2,technical
+NullPointerException in user authentication service,PERF-2443,2,technical
+NullPointerException in user authentication service,INT-2444,2,technical
+NullPointerException in user authentication service,UI-2445,2,technical
+NullReferenceException in UserController during authentication process,UI-2501,0,technical
+NullReferenceException in UserController during authentication process,API-2502,0,technical
+NullReferenceException in UserController during authentication process,SEC-2503,0,technical
+NullReferenceException in UserController during authentication process,DB-2504,0,technical
+NullReferenceException in UserController during authentication process,UI-2505,0,technical
+NullReferenceException in UserController during authentication process,PERF-2506,0,technical
+NullReferenceException in UserController during authentication process,FEAT-2507,0,technical
+NullReferenceException in UserController during authentication process,UI-2508,0,technical
+NullReferenceException in UserController during authentication process,DATA-2509,0,technical
+NullReferenceException in UserController during authentication process,SEC-2510,0,technical
+NullReferenceException in UserController during authentication process,FEAT-2511,0,technical
+NullReferenceException in UserController during authentication process,UI-2512,0,technical
+NullReferenceException in UserController during authentication process,DB-2513,0,technical
+NullReferenceException in UserController during authentication process,PERF-2514,0,technical
+NullReferenceException in UserController during authentication process,SEC-2515,0,technical
+NullReferenceException in UserController during authentication process,PERF-2516,1,technical
+NullReferenceException in UserController during authentication process,API-2517,1,technical
+NullReferenceException in UserController during authentication process,UI-2518,1,technical
+NullReferenceException in UserController during authentication process,SEC-2519,1,technical
+NullReferenceException in UserController during authentication process,DB-2520,1,technical
+NullReferenceException in UserController during authentication process,FEAT-2521,1,technical
+NullReferenceException in UserController during authentication process,UI-2522,1,technical
+NullReferenceException in UserController during authentication process,API-2523,1,technical
+NullReferenceException in UserController during authentication process,PERF-2524,1,technical
+NullReferenceException in UserController during authentication process,SEC-2525,1,technical
+NullReferenceException in UserController during authentication process,DB-2526,1,technical
+NullReferenceException in UserController during authentication process,FEAT-2527,1,technical
+NullReferenceException in UserController during authentication process,UI-2528,1,technical
+NullReferenceException in UserController during authentication process,CRASH-2529,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2530,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2531,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2532,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2533,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2534,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2535,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2536,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2537,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2538,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2539,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2540,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2541,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2542,2,technical
+NullReferenceException in UserController during authentication process,CRASH-2543,2,technical
+NullReferenceException in UserService during account creation,UI-2601,0,technical
+NullReferenceException in UserService during account creation,MOB-2602,0,technical
+NullReferenceException in UserService during account creation,NOT-2603,0,technical
+NullReferenceException in UserService during account creation,SEC-2604,0,technical
+NullReferenceException in UserService during account creation,INT-2605,0,technical
+NullReferenceException in UserService during account creation,DB-2606,0,technical
+NullReferenceException in UserService during account creation,PERF-2607,0,technical
+NullReferenceException in UserService during account creation,UI-2608,0,technical
+NullReferenceException in UserService during account creation,FEAT-2609,0,technical
+NullReferenceException in UserService during account creation,SEC-2610,0,technical
+NullReferenceException in UserService during account creation,DB-2611,0,technical
+NullReferenceException in UserService during account creation,UI-2612,0,technical
+NullReferenceException in UserService during account creation,INT-2613,0,technical
+NullReferenceException in UserService during account creation,MOB-2614,0,technical
+NullReferenceException in UserService during account creation,DB-2615,0,technical
+NullReferenceException in UserService during account creation,UI-2616,1,technical
+NullReferenceException in UserService during account creation,PERF-2617,1,technical
+NullReferenceException in UserService during account creation,DB-2618,1,technical
+NullReferenceException in UserService during account creation,SEC-2619,1,technical
+NullReferenceException in UserService during account creation,INT-2620,1,technical
+NullReferenceException in UserService during account creation,FEAT-2621,1,technical
+NullReferenceException in UserService during account creation,SEC-2622,1,technical
+NullReferenceException in UserService during account creation,UI-2623,1,technical
+NullReferenceException in UserService during account creation,MOB-2624,1,technical
+NullReferenceException in UserService during account creation,PERF-2625,1,technical
+NullReferenceException in UserService during account creation,UI-2626,1,technical
+NullReferenceException in UserService during account creation,INT-2627,1,technical
+NullReferenceException in UserService during account creation,SEC-2628,1,technical
+NullReferenceException in UserService during account creation,DB-2629,1,technical
+NullReferenceException in UserService during account creation,CRA-2630,2,technical
+NullReferenceException in UserService during account creation,CRA-2631,2,technical
+NullReferenceException in UserService during account creation,CRA-2632,2,technical
+NullReferenceException in UserService during account creation,INT-2633,2,technical
+NullReferenceException in UserService during account creation,CRA-2634,2,technical
+NullReferenceException in UserService during account creation,DB-2635,2,technical
+NullReferenceException in UserService during account creation,CRA-2636,2,technical
+NullReferenceException in UserService during account creation,SEC-2637,2,technical
+NullReferenceException in UserService during account creation,INT-2638,2,technical
+NullReferenceException in UserService during account creation,DB-2639,2,technical
+NullReferenceException in UserService during account creation,CRA-2640,2,technical
+NullReferenceException in UserService during account creation,SEC-2641,2,technical
+NullReferenceException in UserService during account creation,CRA-2642,2,technical
+NullReferenceException in UserService during account creation,DB-2643,2,technical
+NullReferenceException in UserService during account creation,CRA-2644,2,technical
+NullReferenceException in UserService during account creation,INT-2645,2,technical
+SQLSyntaxError in user authentication module,UI-2701,0,technical
+SQLSyntaxError in user authentication module,PERF-2702,0,technical
+SQLSyntaxError in user authentication module,SEC-2703,0,technical
+SQLSyntaxError in user authentication module,DB-2704,0,technical
+SQLSyntaxError in user authentication module,NET-2705,0,technical
+SQLSyntaxError in user authentication module,UI-2706,0,technical
+SQLSyntaxError in user authentication module,API-2707,0,technical
+SQLSyntaxError in user authentication module,PERF-2708,0,technical
+SQLSyntaxError in user authentication module,DB-2709,0,technical
+SQLSyntaxError in user authentication module,UI-2710,0,technical
+SQLSyntaxError in user authentication module,SEC-2711,0,technical
+SQLSyntaxError in user authentication module,FEAT-2712,0,technical
+SQLSyntaxError in user authentication module,DB-2713,0,technical
+SQLSyntaxError in user authentication module,UI-2714,0,technical
+SQLSyntaxError in user authentication module,PERF-2715,0,technical
+SQLSyntaxError in user authentication module,DB-2716,1,technical
+SQLSyntaxError in user authentication module,SEC-2717,1,technical
+SQLSyntaxError in user authentication module,UI-2718,1,technical
+SQLSyntaxError in user authentication module,AUTH-2719,1,technical
+SQLSyntaxError in user authentication module,UI-2720,1,technical
+SQLSyntaxError in user authentication module,API-2721,1,technical
+SQLSyntaxError in user authentication module,PERF-2722,1,technical
+SQLSyntaxError in user authentication module,SEC-2723,1,technical
+SQLSyntaxError in user authentication module,AUTH-2724,1,technical
+SQLSyntaxError in user authentication module,API-2725,1,technical
+SQLSyntaxError in user authentication module,FEAT-2726,1,technical
+SQLSyntaxError in user authentication module,DB-2727,1,technical
+SQLSyntaxError in user authentication module,SEC-2728,1,technical
+SQLSyntaxError in user authentication module,DB-2729,2,technical
+SQLSyntaxError in user authentication module,AUTH-2730,2,technical
+SQLSyntaxError in user authentication module,API-2731,2,technical
+SQLSyntaxError in user authentication module,DB-2732,2,technical
+SQLSyntaxError in user authentication module,AUTH-2733,2,technical
+SQLSyntaxError in user authentication module,API-2734,2,technical
+SQLSyntaxError in user authentication module,DB-2735,2,technical
+SQLSyntaxError in user authentication module,AUTH-2736,2,technical
+SQLSyntaxError in user authentication module,API-2737,2,technical
+SQLSyntaxError in user authentication module,DB-2738,2,technical
+SQLSyntaxError in user authentication module,AUTH-2739,2,technical
+SQLSyntaxError in user authentication module,API-2740,2,technical
+SQLSyntaxError in user authentication module,DB-2741,2,technical
+SQLSyntaxError in user authentication module,AUTH-2742,2,technical
+SQLSyntaxError in user authentication module,API-2743,2,technical
+SQLIntegrityConstraintViolationException on user registration,UI-2801,0,technical
+SQLIntegrityConstraintViolationException on user registration,SEC-2802,0,technical
+SQLIntegrityConstraintViolationException on user registration,PERF-2803,0,technical
+SQLIntegrityConstraintViolationException on user registration,UI-2804,0,technical
+SQLIntegrityConstraintViolationException on user registration,API-2805,0,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2806,0,technical
+SQLIntegrityConstraintViolationException on user registration,SEC-2807,0,technical
+SQLIntegrityConstraintViolationException on user registration,UI-2808,0,technical
+SQLIntegrityConstraintViolationException on user registration,PERF-2809,0,technical
+SQLIntegrityConstraintViolationException on user registration,SEC-2810,0,technical
+SQLIntegrityConstraintViolationException on user registration,UI-2811,0,technical
+SQLIntegrityConstraintViolationException on user registration,API-2812,0,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2813,0,technical
+SQLIntegrityConstraintViolationException on user registration,SEC-2814,0,technical
+SQLIntegrityConstraintViolationException on user registration,UI-2815,0,technical
+SQLIntegrityConstraintViolationException on user registration,PERF-2816,1,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2817,1,technical
+SQLIntegrityConstraintViolationException on user registration,API-2818,1,technical
+SQLIntegrityConstraintViolationException on user registration,UI-2819,1,technical
+SQLIntegrityConstraintViolationException on user registration,PERF-2820,1,technical
+SQLIntegrityConstraintViolationException on user registration,SEC-2821,1,technical
+SQLIntegrityConstraintViolationException on user registration,API-2822,1,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2823,1,technical
+SQLIntegrityConstraintViolationException on user registration,UI-2824,1,technical
+SQLIntegrityConstraintViolationException on user registration,PERF-2825,1,technical
+SQLIntegrityConstraintViolationException on user registration,SEC-2826,1,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2827,1,technical
+SQLIntegrityConstraintViolationException on user registration,API-2828,1,technical
+SQLIntegrityConstraintViolationException on user registration,SEC-2829,1,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2830,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2831,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2832,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2833,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2834,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2835,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2836,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2837,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2838,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2839,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2840,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2841,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2842,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2843,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2844,2,technical
+SQLIntegrityConstraintViolationException on user registration,DB-2845,2,technical
+NullPointerException in user authentication process,UI-2901,0,technical
+NullPointerException in user authentication process,PERF-2902,0,technical
+NullPointerException in user authentication process,SEC-2903,0,technical
+NullPointerException in user authentication process,INT-2904,0,technical
+NullPointerException in user authentication process,UI-2905,0,technical
+NullPointerException in user authentication process,DATA-2906,0,technical
+NullPointerException in user authentication process,FEAT-2907,0,technical
+NullPointerException in user authentication process,SEC-2908,0,technical
+NullPointerException in user authentication process,PERF-2909,0,technical
+NullPointerException in user authentication process,API-2910,0,technical
+NullPointerException in user authentication process,UI-2911,0,technical
+NullPointerException in user authentication process,DATA-2912,0,technical
+NullPointerException in user authentication process,FEAT-2913,0,technical
+NullPointerException in user authentication process,SEC-2914,0,technical
+NullPointerException in user authentication process,UI-2915,0,technical
+NullPointerException in user authentication process,PERF-2916,1,technical
+NullPointerException in user authentication process,SEC-2917,1,technical
+NullPointerException in user authentication process,API-2918,1,technical
+NullPointerException in user authentication process,FEAT-2919,1,technical
+NullPointerException in user authentication process,DATA-2920,1,technical
+NullPointerException in user authentication process,UI-2921,1,technical
+NullPointerException in user authentication process,INT-2922,1,technical
+NullPointerException in user authentication process,PERF-2923,1,technical
+NullPointerException in user authentication process,SEC-2924,1,technical
+NullPointerException in user authentication process,FEAT-2925,1,technical
+NullPointerException in user authentication process,DATA-2926,1,technical
+NullPointerException in user authentication process,UI-2927,1,technical
+NullPointerException in user authentication process,INT-2928,1,technical
+NullPointerException in user authentication process,API-2929,1,technical
+NullPointerException in user authentication process,CRA-2930,2,technical
+NullPointerException in user authentication process,SEC-2931,2,technical
+NullPointerException in user authentication process,API-2932,2,technical
+NullPointerException in user authentication process,PERF-2933,2,technical
+NullPointerException in user authentication process,CRA-2934,2,technical
+NullPointerException in user authentication process,DATA-2935,2,technical
+NullPointerException in user authentication process,SEC-2936,2,technical
+NullPointerException in user authentication process,UI-2937,2,technical
+NullPointerException in user authentication process,INT-2938,2,technical
+NullPointerException in user authentication process,API-2939,2,technical
+NullPointerException in user authentication process,PERF-2940,2,technical
+NullPointerException in user authentication process,CRA-2941,2,technical
+NullPointerException in user authentication process,DATA-2942,2,technical
+NullPointerException in user authentication process,SEC-2943,2,technical
+NullPointerException in UserService during authentication process,UI-3001,0,technical
+NullPointerException in UserService during authentication process,SEC-3002,0,technical
+NullPointerException in UserService during authentication process,PERF-3003,0,technical
+NullPointerException in UserService during authentication process,DATA-3004,0,technical
+NullPointerException in UserService during authentication process,INT-3005,0,technical
+NullPointerException in UserService during authentication process,UI-3006,0,technical
+NullPointerException in UserService during authentication process,CRA-3007,0,technical
+NullPointerException in UserService during authentication process,FEAT-3008,0,technical
+NullPointerException in UserService during authentication process,UI-3009,0,technical
+NullPointerException in UserService during authentication process,SEC-3010,0,technical
+NullPointerException in UserService during authentication process,DATA-3011,0,technical
+NullPointerException in UserService during authentication process,PERF-3012,0,technical
+NullPointerException in UserService during authentication process,UI-3013,0,technical
+NullPointerException in UserService during authentication process,INT-3014,0,technical
+NullPointerException in UserService during authentication process,FEAT-3015,0,technical
+NullPointerException in UserService during authentication process,PERF-3016,1,technical
+NullPointerException in UserService during authentication process,DATA-3017,1,technical
+NullPointerException in UserService during authentication process,UI-3018,1,technical
+NullPointerException in UserService during authentication process,SEC-3019,1,technical
+NullPointerException in UserService during authentication process,INT-3020,1,technical
+NullPointerException in UserService during authentication process,FEAT-3021,1,technical
+NullPointerException in UserService during authentication process,DATA-3022,1,technical
+NullPointerException in UserService during authentication process,PERF-3023,1,technical
+NullPointerException in UserService during authentication process,SEC-3024,1,technical
+NullPointerException in UserService during authentication process,INT-3025,1,technical
+NullPointerException in UserService during authentication process,UI-3026,1,technical
+NullPointerException in UserService during authentication process,DATA-3027,1,technical
+NullPointerException in UserService during authentication process,PERF-3028,1,technical
+NullPointerException in UserService during authentication process,SEC-3029,1,technical
+NullPointerException in UserService during authentication process,CRA-3030,2,technical
+NullPointerException in UserService during authentication process,DATA-3031,2,technical
+NullPointerException in UserService during authentication process,INT-3032,2,technical
+NullPointerException in UserService during authentication process,PERF-3033,2,technical
+NullPointerException in UserService during authentication process,SEC-3034,2,technical
+NullPointerException in UserService during authentication process,CR-3035,2,technical
+NullPointerException in UserService during authentication process,DATA-3036,2,technical
+NullPointerException in UserService during authentication process,INT-3037,2,technical
+NullPointerException in UserService during authentication process,SEC-3038,2,technical
+NullPointerException in UserService during authentication process,PERF-3039,2,technical
+NullPointerException in UserService during authentication process,DATA-3040,2,technical
+NullPointerException in UserService during authentication process,SEC-3041,2,technical
+NullPointerException in UserService during authentication process,INT-3042,2,technical
+NullPointerException in UserService during authentication process,CR-3043,2,technical
+NullPointerException in UserService during authentication process,PERF-3044,2,technical
+NullPointerException in UserService during authentication process,DATA-3045,2,technical
+NullPointerException in Spring Boot REST controller,UI-3101,0,technical
+NullPointerException in Spring Boot REST controller,SEC-3102,0,technical
+NullPointerException in Spring Boot REST controller,PERF-3103,0,technical
+NullPointerException in Spring Boot REST controller,INT-3104,0,technical
+NullPointerException in Spring Boot REST controller,DATA-3105,0,technical
+NullPointerException in Spring Boot REST controller,UI-3106,0,technical
+NullPointerException in Spring Boot REST controller,SEC-3107,0,technical
+NullPointerException in Spring Boot REST controller,FEAT-3108,0,technical
+NullPointerException in Spring Boot REST controller,UI-3109,0,technical
+NullPointerException in Spring Boot REST controller,INT-3110,0,technical
+NullPointerException in Spring Boot REST controller,DATA-3111,0,technical
+NullPointerException in Spring Boot REST controller,SEC-3112,0,technical
+NullPointerException in Spring Boot REST controller,PERF-3113,0,technical
+NullPointerException in Spring Boot REST controller,FEAT-3114,0,technical
+NullPointerException in Spring Boot REST controller,UI-3115,0,technical
+NullPointerException in Spring Boot REST controller,PERF-3116,1,technical
+NullPointerException in Spring Boot REST controller,UI-3117,1,technical
+NullPointerException in Spring Boot REST controller,INT-3118,1,technical
+NullPointerException in Spring Boot REST controller,SEC-3119,1,technical
+NullPointerException in Spring Boot REST controller,DATA-3120,1,technical
+NullPointerException in Spring Boot REST controller,FEAT-3121,1,technical
+NullPointerException in Spring Boot REST controller,PERF-3122,1,technical
+NullPointerException in Spring Boot REST controller,UI-3123,1,technical
+NullPointerException in Spring Boot REST controller,SEC-3124,1,technical
+NullPointerException in Spring Boot REST controller,DATA-3125,1,technical
+NullPointerException in Spring Boot REST controller,FEAT-3126,1,technical
+NullPointerException in Spring Boot REST controller,PERF-3127,1,technical
+NullPointerException in Spring Boot REST controller,UI-3128,1,technical
+NullPointerException in Spring Boot REST controller,SEC-3129,1,technical
+NullPointerException in Spring Boot REST controller,CRA-3130,2,technical
+NullPointerException in Spring Boot REST controller,DATA-3131,2,technical
+NullPointerException in Spring Boot REST controller,SEC-3132,2,technical
+NullPointerException in Spring Boot REST controller,INT-3133,2,technical
+NullPointerException in Spring Boot REST controller,PERF-3134,2,technical
+NullPointerException in Spring Boot REST controller,FEAT-3135,2,technical
+NullPointerException in Spring Boot REST controller,UI-3136,2,technical
+NullPointerException in Spring Boot REST controller,INT-3137,2,technical
+NullPointerException in Spring Boot REST controller,SEC-3138,2,technical
+NullPointerException in Spring Boot REST controller,DATA-3139,2,technical
+NullPointerException in Spring Boot REST controller,PERF-3140,2,technical
+NullPointerException in Spring Boot REST controller,SEC-3141,2,technical
+NullPointerException in Spring Boot REST controller,UI-3142,2,technical
+NullPointerException in Spring Boot REST controller,FEAT-3143,2,technical
+NullPointerException in Spring Boot REST controller,DATA-3144,2,technical
+NullPointerException in Spring Boot REST controller,INT-3145,2,technical
+NullReferenceException in user authentication module,UI-3201,0,technical
+NullReferenceException in user authentication module,API-3202,0,technical
+NullReferenceException in user authentication module,SEC-3203,0,technical
+NullReferenceException in user authentication module,PERF-3204,0,technical
+NullReferenceException in user authentication module,DATA-3205,0,technical
+NullReferenceException in user authentication module,INT-3206,0,technical
+NullReferenceException in user authentication module,UI-3207,0,technical
+NullReferenceException in user authentication module,FEAT-3208,0,technical
+NullReferenceException in user authentication module,SEC-3209,0,technical
+NullReferenceException in user authentication module,PERF-3210,0,technical
+NullReferenceException in user authentication module,UI-3211,0,technical
+NullReferenceException in user authentication module,API-3212,0,technical
+NullReferenceException in user authentication module,DATA-3213,0,technical
+NullReferenceException in user authentication module,FEAT-3214,0,technical
+NullReferenceException in user authentication module,SEC-3215,0,technical
+NullReferenceException in user authentication module,PERF-3216,1,technical
+NullReferenceException in user authentication module,SEC-3217,1,technical
+NullReferenceException in user authentication module,DATA-3218,1,technical
+NullReferenceException in user authentication module,INT-3219,1,technical
+NullReferenceException in user authentication module,UI-3220,1,technical
+NullReferenceException in user authentication module,FEAT-3221,1,technical
+NullReferenceException in user authentication module,API-3222,1,technical
+NullReferenceException in user authentication module,PERF-3223,1,technical
+NullReferenceException in user authentication module,SEC-3224,1,technical
+NullReferenceException in user authentication module,DATA-3225,1,technical
+NullReferenceException in user authentication module,INT-3226,1,technical
+NullReferenceException in user authentication module,UI-3227,1,technical
+NullReferenceException in user authentication module,FEAT-3228,1,technical
+NullReferenceException in user authentication module,CRA-3229,2,technical
+NullReferenceException in user authentication module,SEC-3230,2,technical
+NullReferenceException in user authentication module,DATA-3231,2,technical
+NullReferenceException in user authentication module,INT-3232,2,technical
+NullReferenceException in user authentication module,PERF-3233,2,technical
+NullReferenceException in user authentication module,SEC-3234,2,technical
+NullReferenceException in user authentication module,UI-3235,2,technical
+NullReferenceException in user authentication module,API-3236,2,technical
+NullReferenceException in user authentication module,INT-3237,2,technical
+NullReferenceException in user authentication module,DATA-3238,2,technical
+NullReferenceException in user authentication module,SEC-3239,2,technical
+NullReferenceException in user authentication module,PERF-3240,2,technical
+NullReferenceException in user authentication module,UI-3241,2,technical
+NullReferenceException in user authentication module,API-3242,2,technical
+something's off with the site,UI-3301,0,vague
+something's off with the site,SEC-3302,0,vague
+something's off with the site,DB-3303,0,vague
+something's off with the site,API-3304,0,vague
+something's off with the site,PERF-3305,0,vague
+something's off with the site,UI-3306,0,vague
+something's off with the site,DB-3307,0,vague
+something's off with the site,SEC-3308,0,vague
+something's off with the site,UI-3309,0,vague
+something's off with the site,API-3310,0,vague
+something's off with the site,UI-3311,0,vague
+something's off with the site,DB-3312,0,vague
+something's off with the site,FEA-3313,0,vague
+something's off with the site,SEC-3314,0,vague
+something's off with the site,UI-3315,0,vague
+something's off with the site,PERF-3316,1,vague
+something's off with the site,API-3317,1,vague
+something's off with the site,DB-3318,1,vague
+something's off with the site,UI-3319,1,vague
+something's off with the site,FEA-3320,1,vague
+something's off with the site,UI-3321,1,vague
+something's off with the site,API-3322,1,vague
+something's off with the site,DB-3323,1,vague
+something's off with the site,UI-3324,1,vague
+something's off with the site,PERF-3325,1,vague
+something's off with the site,SEC-3326,1,vague
+something's off with the site,SEC-3327,1,vague
+something's off with the site,FEA-3328,1,vague
+something's off with the site,PERF-3329,2,vague
+something's off with the site,UI-3330,2,vague
+something's off with the site,API-3331,2,vague
+something's off with the site,SEC-3332,2,vague
+something's off with the site,UI-3333,2,vague
+something's off with the site,PERF-3334,2,vague
+something's off with the site,DB-3335,2,vague
+something's off with the site,SEC-3336,2,vague
+something's off with the site,FEA-3337,2,vague
+something's off with the site,API-3338,2,vague
+something's off with the site,UI-3339,2,vague
+something's off with the site,PERF-3340,2,vague
+something's off with the site,API-3341,2,vague
+something's off with the site,SEC-3342,2,vague
+something's off with the site,UI-3343,2,vague
+something's off with the site,PERF-3344,2,vague
+something's off with the site,API-3345,2,vague
+something stopped working,UI-3401,0,vague
+something stopped working,SEC-3402,0,vague
+something stopped working,PERF-3403,0,vague
+something stopped working,INT-3404,0,vague
+something stopped working,DATA-3405,0,vague
+something stopped working,UI-3406,0,vague
+something stopped working,SEC-3407,0,vague
+something stopped working,INT-3408,0,vague
+something stopped working,PERF-3409,0,vague
+something stopped working,UI-3410,0,vague
+something stopped working,DATA-3411,0,vague
+something stopped working,FEAT-3412,0,vague
+something stopped working,SEC-3413,0,vague
+something stopped working,UI-3414,0,vague
+something stopped working,CRASH-3415,0,vague
+something stopped working,PERF-3416,1,vague
+something stopped working,DATA-3417,1,vague
+something stopped working,FEAT-3418,1,vague
+something stopped working,SEC-3419,1,vague
+something stopped working,INT-3420,1,vague
+something stopped working,UI-3421,1,vague
+something stopped working,PERF-3422,1,vague
+something stopped working,DATA-3423,1,vague
+something stopped working,CRASH-3424,1,vague
+something stopped working,UI-3425,1,vague
+something stopped working,INT-3426,1,vague
+something stopped working,SEC-3427,1,vague
+something stopped working,FEAT-3428,1,vague
+something stopped working,CRASH-3429,2,vague
+something stopped working,INT-3430,2,vague
+something stopped working,DATA-3431,2,vague
+something stopped working,SEC-3432,2,vague
+something stopped working,PERF-3433,2,vague
+something stopped working,UI-3434,2,vague
+something stopped working,FEAT-3435,2,vague
+something stopped working,CRASH-3436,2,vague
+something stopped working,INT-3437,2,vague
+something stopped working,DATA-3438,2,vague
+something stopped working,SEC-3439,2,vague
+something stopped working,PERF-3440,2,vague
+something stopped working,UI-3441,2,vague
+something stopped working,FEAT-3442,2,vague
+something stopped working,SEC-3443,2,vague
+something stopped working,CRASH-3444,2,vague
+something stopped working,INT-3445,2,vague
+Something's broken on the site.,UI-3501,0,vague
+Something's broken on the site.,SEC-3502,0,vague
+Something's broken on the site.,PERF-3503,0,vague
+Something's broken on the site.,DATA-3504,0,vague
+Something's broken on the site.,FEAT-3505,0,vague
+Something's broken on the site.,API-3506,0,vague
+Something's broken on the site.,CRASH-3507,0,vague
+Something's broken on the site.,UI-3508,0,vague
+Something's broken on the site.,PERF-3509,0,vague
+Something's broken on the site.,DATA-3510,0,vague
+Something's broken on the site.,FEAT-3511,0,vague
+Something's broken on the site.,SEC-3512,0,vague
+Something's broken on the site.,DATA-3513,0,vague
+Something's broken on the site.,CRASH-3514,0,vague
+Something's broken on the site.,UI-3515,0,vague
+Something's broken on the site.,PERF-3516,1,vague
+Something's broken on the site.,UI-3517,1,vague
+Something's broken on the site.,API-3518,1,vague
+Something's broken on the site.,SEC-3519,1,vague
+Something's broken on the site.,DATA-3520,1,vague
+Something's broken on the site.,PERF-3521,1,vague
+Something's broken on the site.,UI-3522,1,vague
+Something's broken on the site.,CRASH-3523,1,vague
+Something's broken on the site.,FEAT-3524,1,vague
+Something's broken on the site.,SEC-3525,1,vague
+Something's broken on the site.,DATA-3526,1,vague
+Something's broken on the site.,API-3527,1,vague
+Something's broken on the site.,PERF-3528,1,vague
+Something's broken on the site.,CRASH-3529,1,vague
+Something's broken on the site.,UI-3530,1,vague
+Something's broken on the site.,CRASH-3531,2,vague
+Something's broken on the site.,UI-3532,2,vague
+Something's broken on the site.,DATA-3533,2,vague
+Something's broken on the site.,SEC-3534,2,vague
+Something's broken on the site.,API-3535,2,vague
+Something's broken on the site.,PERF-3536,2,vague
+Something's broken on the site.,UI-3537,2,vague
+Something's broken on the site.,DATA-3538,2,vague
+Something's broken on the site.,CRASH-3539,2,vague
+Something's broken on the site.,SEC-3540,2,vague
+Something's broken on the site.,API-3541,2,vague
+Something's broken on the site.,FEAT-3542,2,vague
+Something's broken on the site.,PERF-3543,2,vague
+Something's broken on the site.,UI-3544,2,vague
+Something's broken on the site.,DATA-3545,2,vague
+something's broken,UI-3601,0,vague
+something's broken,SEC-3602,0,vague
+something's broken,PERF-3603,0,vague
+something's broken,INT-3604,0,vague
+something's broken,DATA-3605,0,vague
+something's broken,UI-3606,0,vague
+something's broken,CRASH-3607,0,vague
+something's broken,API-3608,0,vague
+something's broken,SEC-3609,0,vague
+something's broken,UI-3610,0,vague
+something's broken,CRASH-3611,0,vague
+something's broken,PERF-3612,0,vague
+something's broken,DATA-3613,0,vague
+something's broken,UI-3614,0,vague
+something's broken,SEC-3615,0,vague
+something's broken,PERF-3616,1,vague
+something's broken,DATA-3617,1,vague
+something's broken,INT-3618,1,vague
+something's broken,UI-3619,1,vague
+something's broken,SEC-3620,1,vague
+something's broken,PERF-3621,1,vague
+something's broken,DATA-3622,1,vague
+something's broken,CRASH-3623,1,vague
+something's broken,UI-3624,1,vague
+something's broken,SEC-3625,1,vague
+something's broken,INT-3626,1,vague
+something's broken,CRASH-3627,1,vague
+something's broken,UI-3628,1,vague
+something's broken,CRASH-3629,2,vague
+something's broken,PERF-3630,2,vague
+something's broken,UI-3631,2,vague
+something's broken,DATA-3632,2,vague
+something's broken,SEC-3633,2,vague
+something's broken,CRASH-3634,2,vague
+something's broken,INT-3635,2,vague
+something's broken,SEC-3636,2,vague
+something's broken,DATA-3637,2,vague
+something's broken,UI-3638,2,vague
+something's broken,CRASH-3639,2,vague
+something's broken,PERF-3640,2,vague
+something's broken,DATA-3641,2,vague
+something's broken,SEC-3642,2,vague
+something's broken,UI-3643,2,vague
+something's broken,CRASH-3644,2,vague
+something's broken,PERF-3645,2,vague
+something's not right,UI-3700,0,vague
+something's not right,MOB-3701,0,vague
+something's not right,NOT-3702,0,vague
+something's not right,SEC-3703,0,vague
+something's not right,API-3704,0,vague
+something's not right,DB-3705,0,vague
+something's not right,LOG-3706,0,vague
+something's not right,PER-3707,0,vague
+something's not right,UI-3708,0,vague
+something's not right,CSS-3709,0,vague
+something's not right,FS-3710,0,vague
+something's not right,AUTH-3711,0,vague
+something's not right,SYNC-3712,0,vague
+something's not right,UI-3713,0,vague
+something's not right,PER-3714,0,vague
+something's not right,PER-3715,1,vague
+something's not right,DB-3716,1,vague
+something's not right,NET-3717,1,vague
+something's not right,UI-3718,1,vague
+something's not right,API-3719,1,vague
+something's not right,SEC-3720,1,vague
+something's not right,FS-3721,1,vague
+something's not right,SYNC-3722,1,vague
+something's not right,LOG-3723,1,vague
+something's not right,UI-3724,1,vague
+something's not right,FS-3725,1,vague
+something's not right,NET-3726,1,vague
+something's not right,SYNC-3727,1,vague
+something's not right,AUTH-3728,1,vague
+something's not right,CRASH-3729,1,vague
+something's not right,CRASH-3730,2,vague
+something's not right,AUTH-3731,2,vague
+something's not right,API-3732,2,vague
+something's not right,DB-3733,2,vague
+something's not right,NET-3734,2,vague
+something's not right,SYNC-3735,2,vague
+something's not right,LOG-3736,2,vague
+something's not right,FS-3737,2,vague
+something's not right,UI-3738,2,vague
+something's not right,AUTH-3739,2,vague
+something's not right,PER-3740,2,vague
+something's not right,FS-3741,2,vague
+something's not right,API-3742,2,vague
+something's not right,CRASH-3743,2,vague
+something's not right,DB-3744,2,vague
+something's gone wrong,UI-3801,0,vague
+something's gone wrong,PERF-3802,0,vague
+something's gone wrong,SEC-3803,0,vague
+something's gone wrong,INT-3804,0,vague
+something's gone wrong,DATA-3805,0,vague
+something's gone wrong,UI-3806,0,vague
+something's gone wrong,CRASH-3807,0,vague
+something's gone wrong,UI-3808,0,vague
+something's gone wrong,DATA-3809,0,vague
+something's gone wrong,UI-3810,0,vague
+something's gone wrong,SEC-3811,0,vague
+something's gone wrong,PERF-3812,0,vague
+something's gone wrong,DATA-3813,0,vague
+something's gone wrong,FEAT-3814,0,vague
+something's gone wrong,INT-3815,0,vague
+something's gone wrong,PERF-3816,1,vague
+something's gone wrong,UI-3817,1,vague
+something's gone wrong,DATA-3818,1,vague
+something's gone wrong,SEC-3819,1,vague
+something's gone wrong,CRASH-3820,1,vague
+something's gone wrong,INT-3821,1,vague
+something's gone wrong,FEAT-3822,1,vague
+something's gone wrong,DATA-3823,1,vague
+something's gone wrong,PERF-3824,1,vague
+something's gone wrong,SEC-3825,1,vague
+something's gone wrong,UI-3826,1,vague
+something's gone wrong,INT-3827,1,vague
+something's gone wrong,FEAT-3828,1,vague
+something's gone wrong,CRASH-3829,2,vague
+something's gone wrong,CRASH-3830,2,vague
+something's gone wrong,INT-3831,2,vague
+something's gone wrong,DATA-3832,2,vague
+something's gone wrong,SEC-3833,2,vague
+something's gone wrong,PERF-3834,2,vague
+something's gone wrong,UI-3835,2,vague
+something's gone wrong,INT-3836,2,vague
+something's gone wrong,CRASH-3837,2,vague
+something's gone wrong,DATA-3838,2,vague
+something's gone wrong,SEC-3839,2,vague
+something's gone wrong,PERF-3840,2,vague
+something's gone wrong,UI-3841,2,vague
+something's gone wrong,INT-3842,2,vague
+something's gone wrong,CRASH-3843,2,vague
+something's gone wrong,DATA-3844,2,vague
+something's gone wrong,SEC-3845,2,vague
+something isn't right,UI-3901,0,vague
+something isn't right,DB-3902,0,vague
+something isn't right,SEC-3903,0,vague
+something isn't right,INT-3904,0,vague
+something isn't right,PERF-3905,0,vague
+something isn't right,UI-3906,0,vague
+something isn't right,FEAT-3907,0,vague
+something isn't right,DATA-3908,0,vague
+something isn't right,UI-3909,0,vague
+something isn't right,PERF-3910,0,vague
+something isn't right,CRA-3911,0,vague
+something isn't right,INT-3912,0,vague
+something isn't right,SEC-3913,0,vague
+something isn't right,DATA-3914,0,vague
+something isn't right,FEAT-3915,0,vague
+something isn't right,PERF-3916,1,vague
+something isn't right,UI-3917,1,vague
+something isn't right,SEC-3918,1,vague
+something isn't right,CRA-3919,1,vague
+something isn't right,INT-3920,1,vague
+something isn't right,DB-3921,1,vague
+something isn't right,UI-3922,1,vague
+something isn't right,PERF-3923,1,vague
+something isn't right,SEC-3924,1,vague
+something isn't right,FEAT-3925,1,vague
+something isn't right,DB-3926,1,vague
+something isn't right,INT-3927,1,vague
+something isn't right,CRA-3928,1,vague
+something isn't right,UI-3929,1,vague
+something isn't right,PERF-3930,1,vague
+something isn't right,DB-3931,2,vague
+something isn't right,SYS-3932,2,vague
+something isn't right,API-3933,2,vague
+something isn't right,SEC-3934,2,vague
+something isn't right,UI-3935,2,vague
+something isn't right,PERF-3936,2,vague
+something isn't right,API-3937,2,vague
+something isn't right,SYS-3938,2,vague
+something isn't right,SEC-3939,2,vague
+something isn't right,UI-3940,2,vague
+something isn't right,DB-3941,2,vague
+something isn't right,PERF-3942,2,vague
+something isn't right,API-3943,2,vague
+something isn't right,SYS-3944,2,vague
+something isn't right,SEC-3945,2,vague
+something's wrong with my account,UI-4001,0,vague
+something's wrong with my account,PERF-4002,0,vague
+something's wrong with my account,SEC-4003,0,vague
+something's wrong with my account,UI-4004,0,vague
+something's wrong with my account,INT-4005,0,vague
+something's wrong with my account,DB-4006,0,vague
+something's wrong with my account,CR-4007,0,vague
+something's wrong with my account,SEC-4008,0,vague
+something's wrong with my account,UI-4009,0,vague
+something's wrong with my account,PERF-4010,0,vague
+something's wrong with my account,INT-4011,0,vague
+something's wrong with my account,DB-4012,0,vague
+something's wrong with my account,CR-4013,0,vague
+something's wrong with my account,SEC-4014,0,vague
+something's wrong with my account,UI-4015,0,vague
+something's wrong with my account,PERF-4016,1,vague
+something's wrong with my account,SEC-4017,1,vague
+something's wrong with my account,UI-4018,1,vague
+something's wrong with my account,DB-4019,1,vague
+something's wrong with my account,INT-4020,1,vague
+something's wrong with my account,PERF-4021,1,vague
+something's wrong with my account,SEC-4022,1,vague
+something's wrong with my account,CR-4023,1,vague
+something's wrong with my account,UI-4024,1,vague
+something's wrong with my account,DB-4025,1,vague
+something's wrong with my account,PERF-4026,1,vague
+something's wrong with my account,SEC-4027,1,vague
+something's wrong with my account,UI-4028,1,vague
+something's wrong with my account,CR-4029,1,vague
+something's wrong with my account,DB-4030,2,vague
+something's wrong with my account,SEC-4031,2,vague
+something's wrong with my account,INT-4032,2,vague
+something's wrong with my account,PERF-4033,2,vague
+something's wrong with my account,SEC-4034,2,vague
+something's wrong with my account,UI-4035,2,vague
+something's wrong with my account,DB-4036,2,vague
+something's wrong with my account,CR-4037,2,vague
+something's wrong with my account,SEC-4038,2,vague
+something's wrong with my account,UI-4039,2,vague
+something's wrong with my account,DB-4040,2,vague
+something's wrong with my account,PERF-4041,2,vague
+something's wrong with my account,SEC-4042,2,vague
+something's wrong with my account,CR-4043,2,vague
+something's wrong with my account,UI-4044,2,vague
+something's wrong with my account,DB-4045,2,vague
+something is off,UI-4101,0,vague
+something is off,PERF-4102,0,vague
+something is off,SEC-4103,0,vague
+something is off,DATA-4104,0,vague
+something is off,API-4105,0,vague
+something is off,UI-4106,0,vague
+something is off,CRASH-4107,0,vague
+something is off,INT-4108,0,vague
+something is off,UI-4109,0,vague
+something is off,SEC-4110,0,vague
+something is off,DATA-4111,0,vague
+something is off,PERF-4112,0,vague
+something is off,SEC-4113,0,vague
+something is off,UI-4114,0,vague
+something is off,DATA-4115,0,vague
+something is off,UI-4116,1,vague
+something is off,PERF-4117,1,vague
+something is off,SEC-4118,1,vague
+something is off,API-4119,1,vague
+something is off,UI-4120,1,vague
+something is off,DATA-4121,1,vague
+something is off,PERF-4122,1,vague
+something is off,SEC-4123,1,vague
+something is off,UI-4124,1,vague
+something is off,DATA-4125,1,vague
+something is off,API-4126,1,vague
+something is off,PERF-4127,1,vague
+something is off,SEC-4128,1,vague
+something is off,UI-4129,1,vague
+something is off,DATA-4130,1,vague
+something is off,UI-4131,2,vague
+something is off,PERF-4132,2,vague
+something is off,SEC-4133,2,vague
+something is off,API-4134,2,vague
+something is off,UI-4135,2,vague
+something is off,DATA-4136,2,vague
+something is off,PERF-4137,2,vague
+something is off,SEC-4138,2,vague
+something is off,UI-4139,2,vague
+something is off,DATA-4140,2,vague
+something is off,API-4141,2,vague
+something is off,UI-4142,2,vague
+something is off,DATA-4143,2,vague
+something is off,PERF-4144,2,vague
+something is off,SEC-4145,2,vague
+something went wrong,UI-4201,0,vague
+something went wrong,SEC-4202,0,vague
+something went wrong,PERF-4203,0,vague
+something went wrong,DB-4204,0,vague
+something went wrong,INT-4205,0,vague
+something went wrong,FEA-4206,0,vague
+something went wrong,SEC-4207,0,vague
+something went wrong,UI-4208,0,vague
+something went wrong,DATA-4209,0,vague
+something went wrong,PERF-4210,0,vague
+something went wrong,UI-4211,0,vague
+something went wrong,SEC-4212,0,vague
+something went wrong,INT-4213,0,vague
+something went wrong,DB-4214,0,vague
+something went wrong,FEA-4215,0,vague
+something went wrong,PERF-4216,1,vague
+something went wrong,UI-4217,1,vague
+something went wrong,SEC-4218,1,vague
+something went wrong,INT-4219,1,vague
+something went wrong,DATA-4220,1,vague
+something went wrong,PERF-4221,1,vague
+something went wrong,UI-4222,1,vague
+something went wrong,SEC-4223,1,vague
+something went wrong,INT-4224,1,vague
+something went wrong,DB-4225,1,vague
+something went wrong,FEA-4226,1,vague
+something went wrong,PERF-4227,1,vague
+something went wrong,UI-4228,1,vague
+something went wrong,SEC-4229,1,vague
+something went wrong,CRA-4230,2,vague
+something went wrong,ERR-4231,2,vague
+something went wrong,CRA-4232,2,vague
+something went wrong,ERR-4233,2,vague
+something went wrong,CRA-4234,2,vague
+something went wrong,ERR-4235,2,vague
+something went wrong,CRA-4236,2,vague
+something went wrong,ERR-4237,2,vague
+something went wrong,CRA-4238,2,vague
+something went wrong,ERR-4239,2,vague
+something went wrong,CRA-4240,2,vague
+something went wrong,ERR-4241,2,vague
+something went wrong,CRA-4242,2,vague
+something went wrong,ERR-4243,2,vague
+something went wrong,CRA-4244,2,vague
+something went wrong,ERR-4245,2,vague
+implement caching for user profile retrieval,UI-4301,0,task
+implement caching for user profile retrieval,SEC-4302,0,task
+implement caching for user profile retrieval,PERF-4303,0,task
+implement caching for user profile retrieval,DATA-4304,0,task
+implement caching for user profile retrieval,API-4305,0,task
+implement caching for user profile retrieval,CR-4306,0,task
+implement caching for user profile retrieval,UI-4307,0,task
+implement caching for user profile retrieval,SEC-4308,0,task
+implement caching for user profile retrieval,PERF-4309,0,task
+implement caching for user profile retrieval,DATA-4310,0,task
+implement caching for user profile retrieval,SEC-4311,0,task
+implement caching for user profile retrieval,UI-4312,0,task
+implement caching for user profile retrieval,CR-4313,0,task
+implement caching for user profile retrieval,PERF-4314,0,task
+implement caching for user profile retrieval,DATA-4315,0,task
+implement caching for user profile retrieval,PERF-4316,1,task
+implement caching for user profile retrieval,DATA-4317,1,task
+implement caching for user profile retrieval,API-4318,1,task
+implement caching for user profile retrieval,UI-4319,1,task
+implement caching for user profile retrieval,SEC-4320,1,task
+implement caching for user profile retrieval,UI-4321,1,task
+implement caching for user profile retrieval,DATA-4322,1,task
+implement caching for user profile retrieval,PERF-4323,1,task
+implement caching for user profile retrieval,SEC-4324,1,task
+implement caching for user profile retrieval,UI-4325,1,task
+implement caching for user profile retrieval,CR-4326,1,task
+implement caching for user profile retrieval,SEC-4327,1,task
+implement caching for user profile retrieval,API-4328,1,task
+implement caching for user profile retrieval,PERF-4329,2,task
+implement caching for user profile retrieval,DATA-4330,2,task
+implement caching for user profile retrieval,PERF-4331,2,task
+implement caching for user profile retrieval,API-4332,2,task
+implement caching for user profile retrieval,PERF-4333,2,task
+implement caching for user profile retrieval,SEC-4334,2,task
+implement caching for user profile retrieval,DATA-4335,2,task
+implement caching for user profile retrieval,PERF-4336,2,task
+implement caching for user profile retrieval,API-4337,2,task
+implement caching for user profile retrieval,PERF-4338,2,task
+implement caching for user profile retrieval,SEC-4339,2,task
+implement caching for user profile retrieval,DATA-4340,2,task
+implement caching for user profile retrieval,PERF-4341,2,task
+implement caching for user profile retrieval,API-4342,2,task
+optimize database queries for the reporting module,UI-4401,0,task
+optimize database queries for the reporting module,SEC-4402,0,task
+optimize database queries for the reporting module,API-4403,0,task
+optimize database queries for the reporting module,UI-4404,0,task
+optimize database queries for the reporting module,PERF-4405,0,task
+optimize database queries for the reporting module,INT-4406,0,task
+optimize database queries for the reporting module,DATA-4407,0,task
+optimize database queries for the reporting module,SEC-4408,0,task
+optimize database queries for the reporting module,CRASH-4409,0,task
+optimize database queries for the reporting module,UI-4410,0,task
+optimize database queries for the reporting module,PERF-4411,0,task
+optimize database queries for the reporting module,UI-4412,0,task
+optimize database queries for the reporting module,SEC-4413,0,task
+optimize database queries for the reporting module,INT-4414,0,task
+optimize database queries for the reporting module,CRASH-4415,0,task
+optimize database queries for the reporting module,PERF-4416,1,task
+optimize database queries for the reporting module,DATA-4417,1,task
+optimize database queries for the reporting module,PERF-4418,1,task
+optimize database queries for the reporting module,INT-4419,1,task
+optimize database queries for the reporting module,DATA-4420,1,task
+optimize database queries for the reporting module,PERF-4421,1,task
+optimize database queries for the reporting module,UI-4422,1,task
+optimize database queries for the reporting module,PERF-4423,1,task
+optimize database queries for the reporting module,SEC-4424,1,task
+optimize database queries for the reporting module,DATA-4425,1,task
+optimize database queries for the reporting module,PERF-4426,1,task
+optimize database queries for the reporting module,CRASH-4427,1,task
+optimize database queries for the reporting module,API-4428,1,task
+optimize database queries for the reporting module,PERF-4429,2,task
+optimize database queries for the reporting module,DATA-4430,2,task
+optimize database queries for the reporting module,PERF-4431,2,task
+optimize database queries for the reporting module,DATA-4432,2,task
+optimize database queries for the reporting module,PERF-4433,2,task
+optimize database queries for the reporting module,PERF-4434,2,task
+optimize database queries for the reporting module,SEC-4435,2,task
+optimize database queries for the reporting module,PERF-4436,2,task
+optimize database queries for the reporting module,DATA-4437,2,task
+optimize database queries for the reporting module,PERF-4438,2,task
+optimize database queries for the reporting module,API-4439,2,task
+optimize database queries for the reporting module,PERF-4440,2,task
+optimize database queries for the reporting module,DATA-4441,2,task
+optimize database queries for the reporting module,PERF-4442,2,task
+optimize database queries for the reporting module,DATA-4443,2,task
+optimize database queries for the reporting module,PERF-4444,2,task
+optimize database queries for the reporting module,INT-4445,2,task
+enhance security measures for data storage,UI-4501,0,task
+enhance security measures for data storage,PERF-4502,0,task
+enhance security measures for data storage,UI-4503,0,task
+enhance security measures for data storage,API-4504,0,task
+enhance security measures for data storage,AUTH-4505,0,task
+enhance security measures for data storage,UI-4506,0,task
+enhance security measures for data storage,SEC-4507,0,task
+enhance security measures for data storage,DB-4508,0,task
+enhance security measures for data storage,UI-4509,0,task
+enhance security measures for data storage,FEAT-4510,0,task
+enhance security measures for data storage,UI-4511,0,task
+enhance security measures for data storage,PERF-4512,0,task
+enhance security measures for data storage,UI-4513,0,task
+enhance security measures for data storage,API-4514,0,task
+enhance security measures for data storage,DB-4515,0,task
+enhance security measures for data storage,SEC-4516,1,task
+enhance security measures for data storage,PERF-4517,1,task
+enhance security measures for data storage,SEC-4518,1,task
+enhance security measures for data storage,DB-4519,1,task
+enhance security measures for data storage,SEC-4520,1,task
+enhance security measures for data storage,FEAT-4521,1,task
+enhance security measures for data storage,DB-4522,1,task
+enhance security measures for data storage,SEC-4523,1,task
+enhance security measures for data storage,SEC-4524,1,task
+enhance security measures for data storage,PERF-4525,1,task
+enhance security measures for data storage,SEC-4526,1,task
+enhance security measures for data storage,FEAT-4527,1,task
+enhance security measures for data storage,SEC-4528,1,task
+enhance security measures for data storage,DB-4529,1,task
+enhance security measures for data storage,SEC-4530,2,task
+enhance security measures for data storage,SEC-4531,2,task
+enhance security measures for data storage,SEC-4532,2,task
+enhance security measures for data storage,SEC-4533,2,task
+enhance security measures for data storage,SEC-4534,2,task
+enhance security measures for data storage,SEC-4535,2,task
+enhance security measures for data storage,SEC-4536,2,task
+enhance security measures for data storage,SEC-4537,2,task
+enhance security measures for data storage,SEC-4538,2,task
+enhance security measures for data storage,SEC-4539,2,task
+enhance security measures for data storage,SEC-4540,2,task
+enhance security measures for data storage,SEC-4541,2,task
+enhance security measures for data storage,SEC-4542,2,task
+enhance security measures for data storage,SEC-4543,2,task
+enhance security measures for data storage,SEC-4544,2,task
+enhance security measures for data storage,SEC-4545,2,task
+create automated tests for the checkout process,UI-4601,0,task
+create automated tests for the checkout process,SEC-4602,0,task
+create automated tests for the checkout process,PRF-4603,0,task
+create automated tests for the checkout process,DATA-4604,0,task
+create automated tests for the checkout process,NET-4605,0,task
+create automated tests for the checkout process,UI-4606,0,task
+create automated tests for the checkout process,SEC-4607,0,task
+create automated tests for the checkout process,PRF-4608,0,task
+create automated tests for the checkout process,UI-4609,0,task
+create automated tests for the checkout process,NET-4610,0,task
+create automated tests for the checkout process,UI-4611,0,task
+create automated tests for the checkout process,SEC-4612,0,task
+create automated tests for the checkout process,UI-4613,0,task
+create automated tests for the checkout process,NET-4614,0,task
+create automated tests for the checkout process,PRF-4615,0,task
+create automated tests for the checkout process,API-4616,1,task
+create automated tests for the checkout process,UI-4617,1,task
+create automated tests for the checkout process,PRF-4618,1,task
+create automated tests for the checkout process,UI-4619,1,task
+create automated tests for the checkout process,SEC-4620,1,task
+create automated tests for the checkout process,API-4621,1,task
+create automated tests for the checkout process,UI-4622,1,task
+create automated tests for the checkout process,PRF-4623,1,task
+create automated tests for the checkout process,SEC-4624,1,task
+create automated tests for the checkout process,UI-4625,1,task
+create automated tests for the checkout process,API-4626,1,task
+create automated tests for the checkout process,PRF-4627,1,task
+create automated tests for the checkout process,SEC-4628,1,task
+create automated tests for the checkout process,UI-4629,1,task
+create automated tests for the checkout process,TST-4630,2,task
+create automated tests for the checkout process,TST-4631,2,task
+create automated tests for the checkout process,TST-4632,2,task
+create automated tests for the checkout process,TST-4633,2,task
+create automated tests for the checkout process,TST-4634,2,task
+create automated tests for the checkout process,TST-4635,2,task
+create automated tests for the checkout process,TST-4636,2,task
+create automated tests for the checkout process,TST-4637,2,task
+create automated tests for the checkout process,TST-4638,2,task
+create automated tests for the checkout process,TST-4639,2,task
+create automated tests for the checkout process,TST-4640,2,task
+create automated tests for the checkout process,TST-4641,2,task
+create automated tests for the checkout process,TST-4642,2,task
+create automated tests for the checkout process,TST-4643,2,task
+create automated tests for the checkout process,TST-4644,2,task
+create automated tests for the checkout process,TST-4645,2,task
+integrate third-party analytics service,UI-4701,0,task
+integrate third-party analytics service,PERF-4702,0,task
+integrate third-party analytics service,SEC-4703,0,task
+integrate third-party analytics service,UI-4704,0,task
+integrate third-party analytics service,DATA-4705,0,task
+integrate third-party analytics service,API-4706,0,task
+integrate third-party analytics service,SEC-4707,0,task
+integrate third-party analytics service,UI-4708,0,task
+integrate third-party analytics service,PERF-4709,0,task
+integrate third-party analytics service,DATA-4710,0,task
+integrate third-party analytics service,UI-4711,0,task
+integrate third-party analytics service,SEC-4712,0,task
+integrate third-party analytics service,PERF-4713,0,task
+integrate third-party analytics service,DATA-4714,0,task
+integrate third-party analytics service,UI-4715,0,task
+integrate third-party analytics service,INT-4716,1,task
+integrate third-party analytics service,PERF-4717,1,task
+integrate third-party analytics service,SEC-4718,1,task
+integrate third-party analytics service,API-4719,1,task
+integrate third-party analytics service,INT-4720,1,task
+integrate third-party analytics service,PERF-4721,1,task
+integrate third-party analytics service,INT-4722,1,task
+integrate third-party analytics service,SEC-4723,1,task
+integrate third-party analytics service,INT-4724,1,task
+integrate third-party analytics service,PERF-4725,1,task
+integrate third-party analytics service,DATA-4726,1,task
+integrate third-party analytics service,INT-4727,1,task
+integrate third-party analytics service,SEC-4728,1,task
+integrate third-party analytics service,INT-4729,1,task
+integrate third-party analytics service,INT-4730,2,task
+integrate third-party analytics service,INT-4731,2,task
+integrate third-party analytics service,INT-4732,2,task
+integrate third-party analytics service,INT-4733,2,task
+integrate third-party analytics service,INT-4734,2,task
+integrate third-party analytics service,INT-4735,2,task
+integrate third-party analytics service,INT-4736,2,task
+integrate third-party analytics service,INT-4737,2,task
+integrate third-party analytics service,INT-4738,2,task
+integrate third-party analytics service,INT-4739,2,task
+integrate third-party analytics service,INT-4740,2,task
+integrate third-party analytics service,INT-4741,2,task
+integrate third-party analytics service,INT-4742,2,task
+integrate third-party analytics service,INT-4743,2,task
+integrate third-party analytics service,INT-4744,2,task
+integrate third-party analytics service,INT-4745,2,task
+document API endpoints for the new feature set,UI-4801,0,task
+document API endpoints for the new feature set,SEC-4802,0,task
+document API endpoints for the new feature set,PERF-4803,0,task
+document API endpoints for the new feature set,UI-4804,0,task
+document API endpoints for the new feature set,SEC-4805,0,task
+document API endpoints for the new feature set,INT-4806,0,task
+document API endpoints for the new feature set,DATA-4807,0,task
+document API endpoints for the new feature set,UI-4808,0,task
+document API endpoints for the new feature set,CNF-4809,0,task
+document API endpoints for the new feature set,UI-4810,0,task
+document API endpoints for the new feature set,PERF-4811,0,task
+document API endpoints for the new feature set,DATA-4812,0,task
+document API endpoints for the new feature set,SEC-4813,0,task
+document API endpoints for the new feature set,UI-4814,0,task
+document API endpoints for the new feature set,DATA-4815,0,task
+document API endpoints for the new feature set,INT-4816,1,task
+document API endpoints for the new feature set,UI-4817,1,task
+document API endpoints for the new feature set,PERF-4818,1,task
+document API endpoints for the new feature set,SEC-4819,1,task
+document API endpoints for the new feature set,DATA-4820,1,task
+document API endpoints for the new feature set,UI-4821,1,task
+document API endpoints for the new feature set,INT-4822,1,task
+document API endpoints for the new feature set,DATA-4823,1,task
+document API endpoints for the new feature set,PERF-4824,1,task
+document API endpoints for the new feature set,UI-4825,1,task
+document API endpoints for the new feature set,SEC-4826,1,task
+document API endpoints for the new feature set,INT-4827,1,task
+document API endpoints for the new feature set,DATA-4828,1,task
+document API endpoints for the new feature set,UI-4829,1,task
+document API endpoints for the new feature set,DOC-4830,2,task
+document API endpoints for the new feature set,DOC-4831,2,task
+document API endpoints for the new feature set,DOC-4832,2,task
+document API endpoints for the new feature set,DOC-4833,2,task
+document API endpoints for the new feature set,DOC-4834,2,task
+document API endpoints for the new feature set,DOC-4835,2,task
+document API endpoints for the new feature set,DOC-4836,2,task
+document API endpoints for the new feature set,DOC-4837,2,task
+document API endpoints for the new feature set,DOC-4838,2,task
+document API endpoints for the new feature set,DOC-4839,2,task
+document API endpoints for the new feature set,DOC-4840,2,task
+document API endpoints for the new feature set,DOC-4841,2,task
+document API endpoints for the new feature set,DOC-4842,2,task
+document API endpoints for the new feature set,DOC-4843,2,task
+document API endpoints for the new feature set,DOC-4844,2,task
+document API endpoints for the new feature set,DOC-4845,2,task
+resolve memory leaks in the image processing service,UI-4901,0,task
+resolve memory leaks in the image processing service,DB-4902,0,task
+resolve memory leaks in the image processing service,SEC-4903,0,task
+resolve memory leaks in the image processing service,CRA-4904,0,task
+resolve memory leaks in the image processing service,UI-4905,0,task
+resolve memory leaks in the image processing service,API-4906,0,task
+resolve memory leaks in the image processing service,DB-4907,0,task
+resolve memory leaks in the image processing service,UI-4908,0,task
+resolve memory leaks in the image processing service,SEC-4909,0,task
+resolve memory leaks in the image processing service,API-4910,0,task
+resolve memory leaks in the image processing service,UI-4911,0,task
+resolve memory leaks in the image processing service,DB-4912,0,task
+resolve memory leaks in the image processing service,UI-4913,0,task
+resolve memory leaks in the image processing service,API-4914,0,task
+resolve memory leaks in the image processing service,SEC-4915,0,task
+resolve memory leaks in the image processing service,PERF-4916,1,task
+resolve memory leaks in the image processing service,DATA-4917,1,task
+resolve memory leaks in the image processing service,UI-4918,1,task
+resolve memory leaks in the image processing service,PERF-4919,1,task
+resolve memory leaks in the image processing service,API-4920,1,task
+resolve memory leaks in the image processing service,SEC-4921,1,task
+resolve memory leaks in the image processing service,INT-4922,1,task
+resolve memory leaks in the image processing service,UI-4923,1,task
+resolve memory leaks in the image processing service,PERF-4924,1,task
+resolve memory leaks in the image processing service,API-4925,1,task
+resolve memory leaks in the image processing service,UI-4926,1,task
+resolve memory leaks in the image processing service,SEC-4927,1,task
+resolve memory leaks in the image processing service,PERF-4928,1,task
+resolve memory leaks in the image processing service,MEM-4929,2,task
+resolve memory leaks in the image processing service,MEM-4930,2,task
+resolve memory leaks in the image processing service,PERF-4931,2,task
+resolve memory leaks in the image processing service,MEM-4932,2,task
+resolve memory leaks in the image processing service,MEM-4933,2,task
+resolve memory leaks in the image processing service,MEM-4934,2,task
+resolve memory leaks in the image processing service,MEM-4935,2,task
+resolve memory leaks in the image processing service,MEM-4936,2,task
+resolve memory leaks in the image processing service,MEM-4937,2,task
+resolve memory leaks in the image processing service,MEM-4938,2,task
+resolve memory leaks in the image processing service,MEM-4939,2,task
+resolve memory leaks in the image processing service,MEM-4940,2,task
+resolve memory leaks in the image processing service,MEM-4941,2,task
+resolve memory leaks in the image processing service,MEM-4942,2,task
+resolve memory leaks in the image processing service,MEM-4943,2,task

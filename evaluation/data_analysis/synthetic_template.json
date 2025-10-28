@@ -1,0 +1,61 @@
+{
+  "metadata": {
+    "description": "Generic patterns for synthetic backlog generation",
+    "domain": "software_development",
+    "note": "No actual client data included"
+  },
+  "target_counts": {
+    "total_items": 800,
+    "bugs": 400,
+    "features": 250,
+    "tasks": 150
+  },
+  "text_patterns": {
+    "title": {
+      "avg_word_count": 6,
+      "range": [
+        3,
+        12
+      ]
+    },
+    "description": {
+      "avg_word_count": 40,
+      "range": [
+        15,
+        100
+      ]
+    }
+  },
+  "components": [
+    "Authentication",
+    "API",
+    "Database",
+    "Frontend",
+    "Backend",
+    "UI/UX",
+    "Security",
+    "Performance",
+    "Integration",
+    "Reporting"
+  ],
+  "priorities": [
+    "Critical",
+    "High",
+    "Medium",
+    "Low"
+  ],
+  "statuses": [
+    "Open",
+    "In Progress",
+    "Resolved",
+    "Closed",
+    "Deferred"
+  ],
+  "issue_types": [
+    "Bug",
+    "Feature",
+    "Task",
+    "Improvement",
+    "Refactor"
+  ]
+}

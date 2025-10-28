@@ -1,0 +1,51 @@
+query,query_type
+enable multi-language support,feature
+add multi-language support,feature
+implement multi-language support,feature
+integrate social media sharing options,feature
+implement user profile customization options,feature
+implement user role management,feature
+implement user-defined dashboards,feature
+implement user role-based access control,feature
+integrate real-time collaboration tools,feature
+enhance user profile customization options,feature
+IndexOutOfBoundsException in ProductService.getProductsByCategory(),specific
+TypeError in payment processing module when handling invalid credit card input,specific
+ConcurrentModificationException in order processing service during bulk updates,specific
+TypeError when updating user profile in React app,specific
+TypeError when parsing JSON response in fetchData function,specific
+Race condition in order processing during high load scenario,specific
+IndexOutOfBoundsException in ArrayList processing user input,specific
+TypeError when rendering user profile component with missing profile data,specific
+TypeError in cart checkout process when applying discount code,specific
+TypeError in fetchData function within userProfile.js,specific
+optimize database query performance,task
+optimize database queries for performance,task
+optimize database queries,task
+NullPointerException in user authentication module,technical
+NullPointerException in user authentication service,technical
+NullReferenceException in UserController during authentication process,technical
+NullReferenceException in UserService during account creation,technical
+SQLSyntaxError in user authentication module,technical
+SQLIntegrityConstraintViolationException on user registration,technical
+NullPointerException in user authentication process,technical
+NullPointerException in UserService during authentication process,technical
+NullPointerException in Spring Boot REST controller,technical
+NullReferenceException in user authentication module,technical
+something's off with the site,vague
+something stopped working,vague
+Something's broken on the site.,vague
+something's broken,vague
+something's not right,vague
+something's gone wrong,vague
+something isn't right,vague
+something's wrong with my account,vague
+something is off,vague
+something went wrong,vague
+implement caching for user profile retrieval,task
+optimize database queries for the reporting module,task
+enhance security measures for data storage,task
+create automated tests for the checkout process,task
+integrate third-party analytics service,task
+document API endpoints for the new feature set,task
+resolve memory leaks in the image processing service,task

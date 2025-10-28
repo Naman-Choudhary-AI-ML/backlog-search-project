@@ -1,0 +1,88 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+ENV/
+env/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# MLflow
+mlruns/
+.mlruns/
+
+# Cache
+.cache/
+*.cache
+
+# Config & local files
+.claude/
+.env
+.env.local
+config.local.yaml
+
+# Documentation (keep only README.md)
+CLEANUP_OLD_DATA.md
+COMPLETENESS_CHECKLIST.md
+COMPREHENSIVE_TASK_PROMPT_FOR_COMPLETION.md
+DATA_STRUCTURE_EXPLANATION.md
+DATA_VERIFICATION_SUMMARY.md
+EXECUTIVE_SUMMARY.md
+EXPERIMENTS_VERIFICATION_REPORT.md
+GITHUB_PREP_CHECKLIST.md
+INTERVIEW_PREP_GUIDE.md
+INVESTIGATION_REPORT.md
+NUMBER_DERIVATIONS.md
+PROJECT_COMPLETION_SUMMARY.md
+PROJECT_GUIDE.md
+PROJECT_STATUS_FINAL.md
+README_UPDATE_RECOMMENDATIONS.md
+RESULTS_SUMMARY.md
+RESUME_BULLETS.md
+RESUME_BULLETS_UPDATED.md
+
+# Learning materials (local only)
+learning_materials/
+
+# Archived data
+evaluation/archived_data/
+
+# Data files (old test sets)
+*.csv
+!evaluation/synthetic_data/*.csv
+!evaluation/test_sets/*.csv
+!evaluation/results/*.csv
+
+# PDFs
+*.pdf
