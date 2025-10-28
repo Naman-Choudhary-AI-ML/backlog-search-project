@@ -393,18 +393,6 @@ AI/ML Engineer
 
 ---
 
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@software{choudhary2025spotlight,
-  author = {Choudhary, Naman},
-  title = {SpotLight: Intelligent Search for Software Backlogs},
-  year = {2025},
-  url = {https://github.com/Naman-Choudhary-AI-ML/backlog-search-ml}
-}
-```
 
 ---
 
@@ -416,4 +404,4 @@ If you use this work, please cite:
 
 ---
 
-**License:** This project is for educational and portfolio purposes. Contact for commercial use.
+
